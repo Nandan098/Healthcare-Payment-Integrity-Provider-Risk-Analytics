@@ -1,0 +1,1 @@
+SELECT CASE WHEN LengthOfStay<=2 THEN '1-2' WHEN LengthOfStay<=5 THEN '3-5' WHEN LengthOfStay<=10 THEN '6-10' WHEN LengthOfStay<=20 THEN '11-20' ELSE '21+' END AS los_band,COUNT(*) claims,ROUND(AVG(BilledAmount),2) avg_bill_usd,ROUND(AVG(BilledAmount/LengthOfStay),2) avg_cost_per_day_usd FROM claims GROUP BY los_band ORDER BY MIN(LengthOfStay);

@@ -1,0 +1,1 @@
+SELECT CASE WHEN p.Age<40 THEN '18-39' WHEN p.Age<65 THEN '40-64' WHEN p.Age<80 THEN '65-79' ELSE '80+' END AS age_band,COUNT(*) AS claims,COUNT(DISTINCT c.PatientID) AS patients,ROUND(AVG(c.BilledAmount),2) AS avg_bill_usd,ROUND(SUM(c.BilledAmount),2) AS spend_usd FROM claims c JOIN patients p USING(PatientID) GROUP BY age_band ORDER BY age_band;

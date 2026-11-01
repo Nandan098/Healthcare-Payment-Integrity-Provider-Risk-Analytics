@@ -1,0 +1,1 @@
+SELECT p.Gender,COUNT(*) AS claims,COUNT(DISTINCT p.PatientID) AS patients,ROUND(AVG(c.BilledAmount),2) AS avg_bill_usd,ROUND(SUM(c.BilledAmount),2) AS spend_usd FROM claims c JOIN patients p USING(PatientID) GROUP BY p.Gender;

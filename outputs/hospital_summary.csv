@@ -1,0 +1,601 @@
+HospitalID,Hospital_Name,Tier,State,Region,Claims,TotalBilled_USD,AverageBilled_USD,GeneratedPositiveRows
+H0372,Summit Synthetic Medical Center 372,Tier 1,MA,Northeast,2445,267496576.71,109405.55284662577,54
+H0143,Evergreen Synthetic Medical Center 143,Tier 1,VA,South,2664,205733870.71,77227.42894519519,66
+H0515,Canyon Synthetic Medical Center 515,Tier 1,MD,South,2102,195458006.96,92986.6826641294,46
+H0584,Lakeside Synthetic Medical Center 584,Tier 1,WA,West,1775,180543605.27,101714.7071943662,44
+H0452,Cedar Valley Synthetic Medical Center 452,Tier 1,HI,West,1862,177043943.73,95082.67654672395,45
+H0207,Northstar Synthetic Medical Center 207,Tier 1,VA,South,1902,170556620.0,89672.25026288118,34
+H0046,Oak Harbor Synthetic Medical Center 046,Tier 1,WV,South,2270,169441164.15,74643.6846475771,55
+H0157,Meadowbrook Synthetic Medical Center 157,Tier 1,OH,Midwest,2166,169184192.27,78109.04536934441,66
+H0104,Pinecrest Synthetic Medical Center 104,Tier 1,CO,West,1839,167651562.89,91164.5257694399,52
+H0518,Maple Synthetic Medical Center 518,Tier 1,MA,Northeast,1678,167402286.5,99762.98361144219,48
+H0387,Meadowbrook Synthetic Medical Center 387,Tier 1,MA,Northeast,1585,163003322.28,102841.21279495268,45
+H0446,Pinecrest Synthetic Medical Center 446,Tier 1,MA,Northeast,1548,155360153.59,100361.8563242894,35
+H0289,Pinecrest Synthetic Medical Center 289,Tier 1,MS,South,1844,149145200.72,80881.34529284165,40
+H0338,Redwood Synthetic Medical Center 338,Tier 1,ND,Midwest,1784,148385092.31,83175.50017376682,41
+H0485,Riverside Synthetic Medical Center 485,Tier 1,MN,Midwest,1592,144866509.91,90996.55145100503,31
+H0298,Northstar Synthetic Medical Center 298,Tier 1,LA,South,2004,141797774.02,70757.37226546906,50
+H0343,Meadowbrook Synthetic Medical Center 343,Tier 1,TN,South,1689,141307601.2,83663.47021906453,36
+H0175,Meadowbrook Synthetic Medical Center 175,Tier 1,MI,Midwest,1667,140918879.57,84534.42085782843,43
+H0297,Summit Synthetic Medical Center 297,Tier 1,WA,West,1493,139062877.85,93143.25375083723,22
+H0532,Silverline Synthetic Medical Center 532,Tier 1,OR,West,1487,137627676.18,92553.91807666443,38
+H0073,Blue Ridge Synthetic Medical Center 073,Tier 1,NE,Midwest,1759,136165148.74,77410.54504832292,33
+H0268,Cedar Valley Synthetic Medical Center 268,Tier 1,CO,West,1617,135385148.23,83726.12753865182,31
+H0083,Oak Harbor Synthetic Medical Center 083,Tier 1,ME,Northeast,1559,135184216.8,86712.13393200771,26
+H0572,Silverline Synthetic Medical Center 572,Tier 1,MD,South,1564,134491232.88,85991.83687979539,36
+H0536,Canyon Synthetic Medical Center 536,Tier 1,AR,South,1705,129166878.81,75757.70018181819,39
+H0138,Northstar Synthetic Medical Center 138,Tier 1,MS,South,1819,127904846.62,70316.02343045629,35
+H0134,Riverside Synthetic Medical Center 134,Tier 1,SC,South,1686,124758431.86,73996.69742586002,33
+H0425,Blue Ridge Synthetic Medical Center 425,Tier 1,WI,Midwest,1578,123491740.06,78258.39040557668,35
+H0109,Meadowbrook Synthetic Medical Center 109,Tier 1,WI,Midwest,1500,123028305.4,82018.87026666666,36
+H0436,Oak Harbor Synthetic Medical Center 436,Tier 1,TN,South,1578,121942410.24,77276.55908745246,33
+H0493,Blue Ridge Synthetic Medical Center 493,Tier 1,ME,Northeast,1351,121763986.44,90128.78344929681,27
+H0523,Evergreen Synthetic Medical Center 523,Tier 1,MI,Midwest,1550,120405865.88,77681.20379354838,44
+H0443,Riverside Synthetic Medical Center 443,Tier 1,NH,Northeast,1434,118802738.34,82847.09786610879,40
+H0170,Blue Ridge Synthetic Medical Center 170,Tier 1,RI,Northeast,1409,117073345.43,83089.67028388928,21
+H0002,Canyon Synthetic Medical Center 002,Tier 1,AL,South,1581,116988666.09,73996.62624288425,40
+H0247,Lakeside Synthetic Medical Center 247,Tier 1,NH,Northeast,1526,116654536.85,76444.6506225426,38
+H0420,Lakeside Synthetic Medical Center 420,Tier 1,VA,South,1498,116583919.21,77826.38131508678,31
+H0551,Northstar Synthetic Medical Center 551,Tier 1,NH,Northeast,1373,114816261.43,83624.37103423162,39
+H0227,Northstar Synthetic Medical Center 227,Tier 1,UT,West,1421,113744468.2,80045.3681914145,37
+H0258,Summit Synthetic Medical Center 258,Tier 1,KY,South,1606,112640290.99,70137.16749066002,32
+H0463,Lakeside Synthetic Medical Center 463,Tier 1,MT,West,1268,111493663.92999999,87928.75704258675,28
+H0072,Fairview Synthetic Medical Center 072,Tier 1,IN,Midwest,1387,109762637.29,79136.72479452055,25
+H0308,Cedar Valley Synthetic Medical Center 308,Tier 1,MN,Midwest,1159,109615887.98,94577.98790336498,34
+H0058,Redwood Synthetic Medical Center 058,Tier 1,RI,Northeast,1291,107930935.75,83602.5838497289,34
+H0450,Riverside Synthetic Medical Center 450,Tier 1,AR,South,1426,106874789.29,74947.25756661993,40
+H0204,Fairview Synthetic Medical Center 204,Tier 1,LA,South,1438,106351414.99,73957.86856050069,39
+H0291,Riverside Synthetic Medical Center 291,Tier 1,CO,West,1259,106303657.99,84434.99443208895,26
+H0105,Evergreen Synthetic Medical Center 105,Tier 1,WV,South,1330,104587290.59,78637.06059398496,32
+H0168,Northstar Synthetic Medical Center 168,Tier 1,WI,Midwest,1417,102938090.08,72645.08827099505,33
+H0325,Evergreen Synthetic Medical Center 325,Tier 1,NJ,Northeast,1103,102320030.02,92765.21307343608,22
+H0106,Fairview Synthetic Medical Center 106,Tier 1,MS,South,1184,101488310.23,85716.4782347973,27
+H0355,Riverside Synthetic Medical Center 355,Tier 1,NV,West,1239,101111635.16,81607.45372074253,26
+H0549,Blue Ridge Synthetic Medical Center 549,Tier 1,KY,South,1238,98261597.15,79371.24163974152,24
+H0264,Fairview Synthetic Medical Center 264,Tier 1,IA,Midwest,1388,98123014.34,70693.81436599424,39
+H0296,Maple Synthetic Medical Center 296,Tier 1,KY,South,1273,96900292.77,76119.63296936371,28
+H0131,Meadowbrook Synthetic Medical Center 131,Tier 1,AZ,West,1225,95423435.92,77896.68238367347,31
+H0320,Silverline Synthetic Medical Center 320,Tier 1,KS,Midwest,1171,94880982.67,81025.6043296328,37
+H0238,Cedar Valley Synthetic Medical Center 238,Tier 1,KY,South,1248,93962612.56,75290.55493589744,45
+H0050,Cedar Valley Synthetic Medical Center 050,Tier 1,WY,West,1163,92557194.84,79584.86228718831,29
+H0461,Meadowbrook Synthetic Medical Center 461,Tier 1,MS,South,1343,89984602.61,67002.68250930752,28
+H0014,Pinecrest Synthetic Medical Center 014,Tier 1,NJ,Northeast,885,88383369.15,99868.21372881357,21
+H0390,Riverside Synthetic Medical Center 390,Tier 1,NH,Northeast,1098,88294870.98,80414.27229508197,32
+H0381,Pinecrest Synthetic Medical Center 381,Tier 1,WY,West,1062,86083027.47,81057.46466101694,27
+H0198,Summit Synthetic Medical Center 198,Tier 3,KY,South,1877,84948414.93,45257.54657964838,42
+H0055,Blue Ridge Synthetic Medical Center 055,Tier 2,MN,Midwest,1228,84711877.76,68983.61381107492,32
+H0406,Silverline Synthetic Medical Center 406,Tier 2,CT,Northeast,1177,84321636.97,71641.15290569243,23
+H0067,Northstar Synthetic Medical Center 067,Tier 2,WI,Midwest,1330,82936233.4,62358.07022556391,33
+H0177,Silverline Synthetic Medical Center 177,Tier 2,CA,West,1099,82448355.96,75021.25201091901,25
+H0278,Evergreen Synthetic Medical Center 278,Tier 1,LA,South,1156,82286149.05,71181.78983564014,23
+H0358,Silverline Synthetic Medical Center 358,Tier 1,WY,West,1086,82096655.95,75595.44746777164,22
+H0225,Maple Synthetic Medical Center 225,Tier 2,IA,Midwest,1335,81471296.04,61027.188044943825,19
+H0004,Pinecrest Synthetic Medical Center 004,Tier 2,MN,Midwest,1234,81462987.19,66015.38670178282,35
+H0568,Blue Ridge Synthetic Medical Center 568,Tier 2,MD,South,1174,81053954.98,69040.84751277683,34
+H0087,Fairview Synthetic Medical Center 087,Tier 1,AZ,West,903,79718028.2,88281.31583610189,21
+H0252,Summit Synthetic Medical Center 252,Tier 1,ID,West,994,78100921.8,78572.35593561368,28
+H0057,Canyon Synthetic Medical Center 057,Tier 2,MN,Midwest,1054,77997522.65,74001.4446394687,24
+H0141,Riverside Synthetic Medical Center 141,Tier 3,MN,Midwest,1664,77959159.87,46850.456652644236,41
+H0369,Cedar Valley Synthetic Medical Center 369,Tier 1,NM,West,1020,77735965.31,76211.73069607843,30
+H0165,Evergreen Synthetic Medical Center 165,Tier 1,IA,Midwest,1146,77262147.37,67418.9767626527,20
+H0090,Silverline Synthetic Medical Center 090,Tier 1,OK,South,1115,76961708.97,69023.95423318386,31
+H0193,Silverline Synthetic Medical Center 193,Tier 2,CO,West,1014,74524037.85,73495.10636094674,18
+H0005,Northstar Synthetic Medical Center 005,Tier 2,WA,West,1052,72565707.16,68978.80908745246,23
+H0003,Redwood Synthetic Medical Center 003,Tier 3,MT,West,1583,72057120.05,45519.34305116867,38
+H0262,Pinecrest Synthetic Medical Center 262,Tier 2,HI,West,996,71957132.94,72246.11740963855,24
+H0140,Pinecrest Synthetic Medical Center 140,Tier 2,NE,Midwest,1233,71151738.63,57706.19515815085,32
+H0380,Cedar Valley Synthetic Medical Center 380,Tier 3,MD,South,1515,70288298.6,46394.916567656765,38
+H0398,Redwood Synthetic Medical Center 398,Tier 2,CO,West,1023,70277422.08,68697.38228739002,20
+H0522,Silverline Synthetic Medical Center 522,Tier 1,MS,South,990,69910912.48,70617.08331313131,27
+H0142,Evergreen Synthetic Medical Center 142,Tier 1,IA,Midwest,942,69641147.91,73929.03175159235,17
+H0186,Silverline Synthetic Medical Center 186,Tier 3,ND,Midwest,1397,69525419.08,49767.65861130995,39
+H0290,Lakeside Synthetic Medical Center 290,Tier 2,CO,West,1040,68871948.09,66223.02700961538,13
+H0305,Silverline Synthetic Medical Center 305,Tier 2,IN,Midwest,949,68093901.07,71753.3204109589,28
+H0112,Redwood Synthetic Medical Center 112,Tier 3,NJ,Northeast,1169,67767678.96,57970.64068434559,19
+H0477,Summit Synthetic Medical Center 477,Tier 3,CT,Northeast,1230,67615549.79,54971.991699187,29
+H0356,Blue Ridge Synthetic Medical Center 356,Tier 2,CO,West,1108,67602171.45,61012.79011732852,19
+H0092,Maple Synthetic Medical Center 092,Tier 2,NJ,Northeast,876,67526769.33,77085.35311643836,16
+H0277,Canyon Synthetic Medical Center 277,Tier 3,MN,Midwest,1371,66567201.05,48553.7571480671,29
+H0239,Canyon Synthetic Medical Center 239,Tier 2,WA,West,984,65004809.62,66061.79839430893,26
+H0183,Riverside Synthetic Medical Center 183,Tier 2,DE,South,1030,64242418.74,62371.28033009709,17
+H0017,Maple Synthetic Medical Center 017,Tier 2,VA,South,979,64234220.53,65612.07408580184,31
+H0565,Summit Synthetic Medical Center 565,Tier 2,CA,West,814,63848929.88,78438.4887960688,23
+H0076,Lakeside Synthetic Medical Center 076,Tier 2,KS,Midwest,1142,63749949.01,55823.0726882662,23
+H0043,Meadowbrook Synthetic Medical Center 043,Tier 1,ID,West,846,63728680.2,75329.40921985816,17
+H0070,Northstar Synthetic Medical Center 070,Tier 3,KS,Midwest,1298,62576776.89,48210.151687211095,28
+H0116,Silverline Synthetic Medical Center 116,Tier 3,KY,South,1341,62569697.59,46658.98403430276,28
+H0578,Pinecrest Synthetic Medical Center 578,Tier 2,OR,West,908,61313962.93,67526.39089207049,19
+H0251,Fairview Synthetic Medical Center 251,Tier 1,OR,West,814,61210850.75,75197.60534398035,21
+H0441,Cedar Valley Synthetic Medical Center 441,Tier 2,DE,South,910,61033886.72,67070.20518681318,24
+H0367,Evergreen Synthetic Medical Center 367,Tier 3,MD,South,1168,60994706.98,52221.49570205479,32
+H0399,Meadowbrook Synthetic Medical Center 399,Tier 2,TX,South,950,60972595.9,64181.67989473684,26
+H0294,Evergreen Synthetic Medical Center 294,Tier 3,RI,Northeast,1228,60423336.46,49204.671384364825,26
+H0365,Fairview Synthetic Medical Center 365,Tier 2,MD,South,960,60094761.910000004,62598.71032291667,14
+H0257,Silverline Synthetic Medical Center 257,Tier 2,KY,South,981,59575187.6,60729.039347604485,31
+H0462,Evergreen Synthetic Medical Center 462,Tier 2,WV,South,1186,59441444.59,50119.26188026982,29
+H0150,Fairview Synthetic Medical Center 150,Tier 2,CT,Northeast,878,59416824.74,67672.92111617312,20
+H0027,Northstar Synthetic Medical Center 027,Tier 2,WV,South,1014,59336998.35,58517.74985207101,21
+H0550,Silverline Synthetic Medical Center 550,Tier 2,AL,South,1126,59026549.06,52421.44676731794,19
+H0318,Meadowbrook Synthetic Medical Center 318,Tier 3,HI,West,1172,58800098.67,50170.73265358362,27
+H0396,Pinecrest Synthetic Medical Center 396,Tier 2,SD,Midwest,995,58689388.99,58984.31054271357,30
+H0153,Silverline Synthetic Medical Center 153,Tier 2,TX,South,1054,58358811.25,55368.89112903226,23
+H0374,Fairview Synthetic Medical Center 374,Tier 2,MI,Midwest,992,58336665.99,58807.12297379033,31
+H0237,Oak Harbor Synthetic Medical Center 237,Tier 2,NJ,Northeast,852,58233317.89,68348.96465962441,11
+H0557,Summit Synthetic Medical Center 557,Tier 2,LA,South,1046,57990453.95,55440.20454110899,24
+H0122,Silverline Synthetic Medical Center 122,Tier 2,AZ,West,917,57920709.52,63163.260109051254,24
+H0007,Blue Ridge Synthetic Medical Center 007,Tier 2,NE,Midwest,977,57747209.06,59106.66229273286,29
+H0561,Canyon Synthetic Medical Center 561,Tier 2,OK,South,1015,56942026.64,56100.51885714286,22
+H0243,Fairview Synthetic Medical Center 243,Tier 2,WV,South,966,56819109.35,58818.95377846791,16
+H0266,Canyon Synthetic Medical Center 266,Tier 3,MA,Northeast,1192,56750289.71,47609.303447986575,18
+H0393,Redwood Synthetic Medical Center 393,Tier 3,CT,Northeast,975,55569339.97,56994.19484102564,41
+H0389,Riverside Synthetic Medical Center 389,Tier 3,SC,South,1202,55533956.32,46201.29477537438,23
+H0310,Blue Ridge Synthetic Medical Center 310,Tier 2,WI,Midwest,919,55417206.93,60301.63974972796,26
+H0080,Meadowbrook Synthetic Medical Center 080,Tier 2,NV,West,892,54734825.66,61361.91217488789,22
+H0191,Meadowbrook Synthetic Medical Center 191,Tier 2,UT,West,1016,54570187.87,53710.81483267716,25
+H0228,Silverline Synthetic Medical Center 228,Tier 2,IA,Midwest,996,54396142.03,54614.60043172691,22
+H0326,Blue Ridge Synthetic Medical Center 326,Tier 3,MN,Midwest,1148,54173201.52,47189.19993031359,35
+H0284,Redwood Synthetic Medical Center 284,Tier 2,KY,South,897,53966170.15,60162.95445930881,15
+H0025,Redwood Synthetic Medical Center 025,Tier 2,WA,West,772,53416685.61,69192.5979404145,18
+H0544,Riverside Synthetic Medical Center 544,Tier 2,IN,Midwest,867,53251855.08,61420.824775086505,16
+H0363,Silverline Synthetic Medical Center 363,Tier 2,WY,West,835,53105709.84,63599.65250299402,16
+H0042,Canyon Synthetic Medical Center 042,Tier 3,UT,West,1300,53073558.95,40825.814576923076,25
+H0307,Riverside Synthetic Medical Center 307,Tier 2,CO,West,754,52808067.86,70037.22527851458,15
+H0103,Blue Ridge Synthetic Medical Center 103,Tier 2,VA,South,943,52730114.18,55917.406341463415,27
+H0524,Northstar Synthetic Medical Center 524,Tier 3,MN,Midwest,1065,52620799.7,49409.20159624414,31
+H0085,Fairview Synthetic Medical Center 085,Tier 2,CT,Northeast,709,52613332.35,74207.80303244006,19
+H0465,Blue Ridge Synthetic Medical Center 465,Tier 2,MA,Northeast,805,52516466.6,65237.84670807454,21
+H0219,Blue Ridge Synthetic Medical Center 219,Tier 2,NH,Northeast,866,52433567.53,60546.844722863745,36
+H0208,Oak Harbor Synthetic Medical Center 208,Tier 2,MA,Northeast,749,52409047.91,69972.02658210948,15
+H0230,Lakeside Synthetic Medical Center 230,Tier 2,AR,South,1005,52271501.8,52011.444577114424,19
+H0537,Pinecrest Synthetic Medical Center 537,Tier 2,AL,South,806,52216314.6,64784.5094292804,21
+H0312,Redwood Synthetic Medical Center 312,Tier 2,KS,Midwest,900,52188110.99,57986.78998888889,18
+H0052,Evergreen Synthetic Medical Center 052,Tier 2,KY,South,941,52121990.26,55390.000276301806,18
+H0035,Cedar Valley Synthetic Medical Center 035,Tier 2,MA,Northeast,741,51937875.46,70091.59981106613,20
+H0451,Maple Synthetic Medical Center 451,Tier 3,VA,South,1030,51919939.42,50407.70817475728,35
+H0538,Fairview Synthetic Medical Center 538,Tier 3,AZ,West,984,51867596.68,52710.97223577236,20
+H0037,Pinecrest Synthetic Medical Center 037,Tier 3,LA,South,1315,51854087.64,39432.7662661597,31
+H0525,Redwood Synthetic Medical Center 525,Tier 3,HI,West,959,51783595.72,53997.49293013556,15
+H0597,Meadowbrook Synthetic Medical Center 597,Tier 3,IA,Midwest,1197,51664924.55,43162.008813700915,32
+H0304,Fairview Synthetic Medical Center 304,Tier 2,DE,South,787,51573440.61,65531.690736975856,14
+H0495,Fairview Synthetic Medical Center 495,Tier 2,VT,Northeast,876,51316524.44,58580.50735159817,19
+H0474,Cedar Valley Synthetic Medical Center 474,Tier 3,AK,West,863,51247370.160000004,59382.815944380076,27
+H0124,Lakeside Synthetic Medical Center 124,Tier 3,WA,West,1014,51072814.04,50367.666706114396,37
+H0322,Silverline Synthetic Medical Center 322,Tier 3,MI,Midwest,1154,50921065.31,44125.70650779896,24
+H0164,Northstar Synthetic Medical Center 164,Tier 2,SC,South,912,50860728.32,55768.34245614035,19
+H0547,Lakeside Synthetic Medical Center 547,Tier 2,KY,South,884,50822006.06,57490.95708144797,23
+H0569,Riverside Synthetic Medical Center 569,Tier 2,VA,South,920,50727834.42,55138.95045652174,15
+H0570,Oak Harbor Synthetic Medical Center 570,Tier 2,DE,South,751,50645015.58,67436.77174434088,21
+H0270,Evergreen Synthetic Medical Center 270,Tier 2,WI,Midwest,825,50619668.0,61357.17333333333,9
+H0346,Meadowbrook Synthetic Medical Center 346,Tier 3,MD,South,904,50539934.08,55907.00672566371,19
+H0263,Oak Harbor Synthetic Medical Center 263,Tier 2,UT,West,822,50378291.72,61287.459513382,9
+H0422,Riverside Synthetic Medical Center 422,Tier 2,KY,South,910,50041740.27,54990.92337362638,23
+H0117,Fairview Synthetic Medical Center 117,Tier 3,MT,West,1194,49820513.91,41725.72354271357,24
+H0395,Northstar Synthetic Medical Center 395,Tier 2,NE,Midwest,851,49563364.66,58241.321574618094,19
+H0061,Redwood Synthetic Medical Center 061,Tier 2,AK,West,746,49300148.15,66085.9894772118,20
+H0021,Redwood Synthetic Medical Center 021,Tier 3,MI,Midwest,1044,49259245.04,47183.184904214555,25
+H0328,Northstar Synthetic Medical Center 328,Tier 2,GA,South,854,49160264.27,57564.712259953165,13
+H0099,Canyon Synthetic Medical Center 099,Tier 2,NJ,Northeast,764,49141376.69,64321.17367801047,18
+H0496,Meadowbrook Synthetic Medical Center 496,Tier 2,WA,West,740,49123376.56,66382.94129729731,20
+H0516,Cedar Valley Synthetic Medical Center 516,Tier 3,KY,South,1235,48993868.3,39671.14842105263,31
+H0151,Oak Harbor Synthetic Medical Center 151,Tier 2,KY,South,822,48763502.95,59322.99628953772,15
+H0084,Oak Harbor Synthetic Medical Center 084,Tier 3,NJ,Northeast,851,48427401.0,56906.464159811985,24
+H0054,Lakeside Synthetic Medical Center 054,Tier 3,MA,Northeast,908,48268409.51,53159.041310572684,17
+H0132,Pinecrest Synthetic Medical Center 132,Tier 2,MS,South,1005,48194867.26,47955.091800995026,20
+H0267,Lakeside Synthetic Medical Center 267,Tier 2,TN,South,838,48161687.11,57472.1803221957,17
+H0045,Summit Synthetic Medical Center 045,Tier 2,MS,South,886,48160769.28,54357.52740406321,20
+H0020,Fairview Synthetic Medical Center 020,Tier 3,ID,West,1007,47969911.26,47636.45606752731,25
+H0508,Canyon Synthetic Medical Center 508,Tier 2,AR,South,851,47899947.39,56286.659682726204,32
+H0534,Oak Harbor Synthetic Medical Center 534,Tier 3,CO,West,964,47754509.18,49537.872593361,23
+H0309,Maple Synthetic Medical Center 309,Tier 2,MA,Northeast,694,47333803.13,68204.32727665706,17
+H0321,Cedar Valley Synthetic Medical Center 321,Tier 2,IN,Midwest,866,47329748.99,54653.28982678984,20
+H0586,Blue Ridge Synthetic Medical Center 586,Tier 2,SD,Midwest,859,47075901.18,54803.144563445865,22
+H0273,Meadowbrook Synthetic Medical Center 273,Tier 3,ID,West,1049,47037546.21,44840.36816968542,22
+H0097,Northstar Synthetic Medical Center 097,Tier 2,MA,Northeast,623,46998506.47,75439.01520064205,14
+H0248,Riverside Synthetic Medical Center 248,Tier 2,MD,South,680,46924894.07,69007.1971617647,8
+H0028,Fairview Synthetic Medical Center 028,Tier 3,AK,West,824,46674930.29,56644.33287621359,23
+H0102,Cedar Valley Synthetic Medical Center 102,Tier 2,SC,South,779,46504677.22,59697.91684210526,17
+H0100,Canyon Synthetic Medical Center 100,Tier 2,MI,Midwest,815,46172499.08,56653.37310429448,19
+H0315,Oak Harbor Synthetic Medical Center 315,Tier 2,CT,Northeast,726,46051596.89,63431.95163911846,26
+H0503,Riverside Synthetic Medical Center 503,Tier 2,ME,Northeast,860,45974652.88,53458.89869767442,13
+H0384,Redwood Synthetic Medical Center 384,Tier 3,VT,Northeast,1033,45973492.51,44504.83302032913,28
+H0182,Evergreen Synthetic Medical Center 182,Tier 2,IN,Midwest,751,45906249.19,61126.829813581884,18
+H0585,Cedar Valley Synthetic Medical Center 585,Tier 3,MA,Northeast,815,45905526.72,56325.79965644172,10
+H0012,Evergreen Synthetic Medical Center 012,Tier 2,NJ,Northeast,633,45670836.98,72149.82145339652,15
+H0327,Summit Synthetic Medical Center 327,Tier 2,IN,Midwest,765,45411342.22,59361.23166013072,16
+H0244,Blue Ridge Synthetic Medical Center 244,Tier 2,TN,South,813,45243135.18,55649.61276752767,27
+H0254,Canyon Synthetic Medical Center 254,Tier 2,ME,Northeast,651,45232430.86,69481.46061443932,16
+H0528,Oak Harbor Synthetic Medical Center 528,Tier 2,UT,West,818,44974552.51,54981.115537897305,20
+H0370,Evergreen Synthetic Medical Center 370,Tier 2,MA,Northeast,630,44828087.21,71155.69398412699,10
+H0354,Blue Ridge Synthetic Medical Center 354,Tier 2,MN,Midwest,676,44807867.31,66283.82738165681,19
+H0350,Pinecrest Synthetic Medical Center 350,Tier 2,TN,South,841,44663794.5,53107.96016646849,14
+H0541,Northstar Synthetic Medical Center 541,Tier 3,NV,West,907,44652130.53,49230.573902976845,18
+H0156,Riverside Synthetic Medical Center 156,Tier 2,RI,Northeast,681,44579681.67,65462.08762114538,15
+H0032,Evergreen Synthetic Medical Center 032,Tier 3,NM,West,1073,44571646.24,41539.27888164026,25
+H0111,Redwood Synthetic Medical Center 111,Tier 3,IN,Midwest,948,44485068.56,46925.17780590717,21
+H0206,Canyon Synthetic Medical Center 206,Tier 2,MD,South,651,44271974.84,68006.10574500769,8
+H0501,Maple Synthetic Medical Center 501,Tier 2,RI,Northeast,672,44246959.66,65843.68997023809,12
+H0218,Fairview Synthetic Medical Center 218,Tier 3,NJ,Northeast,774,44128782.15,57013.93042635659,27
+H0120,Summit Synthetic Medical Center 120,Tier 3,NH,Northeast,886,44056016.13,49724.62317155756,16
+H0469,Blue Ridge Synthetic Medical Center 469,Tier 3,SC,South,1017,44028559.03,43292.58508357916,18
+H0582,Silverline Synthetic Medical Center 582,Tier 2,TN,South,749,43916881.76,58634.021041388514,14
+H0562,Pinecrest Synthetic Medical Center 562,Tier 2,NJ,Northeast,616,43818603.9,71134.09724025974,11
+H0589,Lakeside Synthetic Medical Center 589,Tier 2,LA,South,723,43544846.43,60228.00336099585,8
+H0545,Pinecrest Synthetic Medical Center 545,Tier 3,NH,Northeast,1066,43493607.18,40800.757204502814,29
+H0378,Silverline Synthetic Medical Center 378,Tier 3,VA,South,841,43312991.11,51501.77302021403,11
+H0279,Riverside Synthetic Medical Center 279,Tier 3,CT,Northeast,819,43198552.15,52745.48492063492,14
+H0548,Meadowbrook Synthetic Medical Center 548,Tier 2,NH,Northeast,677,42944438.54,63433.43949778434,16
+H0486,Cedar Valley Synthetic Medical Center 486,Tier 3,MA,Northeast,762,42873627.83,56264.60345144357,23
+H0242,Oak Harbor Synthetic Medical Center 242,Tier 3,NJ,Northeast,799,42822113.97,53594.63575719649,23
+H0360,Silverline Synthetic Medical Center 360,Tier 3,WY,West,961,42821459.34,44559.27090530698,14
+H0078,Lakeside Synthetic Medical Center 078,Tier 3,UT,West,840,42788974.5,50939.25535714286,27
+H0066,Pinecrest Synthetic Medical Center 066,Tier 2,SC,South,678,42719859.26,63008.64197640117,24
+H0162,Blue Ridge Synthetic Medical Center 162,Tier 2,NJ,Northeast,629,42614527.95,67749.64697933228,18
+H0334,Blue Ridge Synthetic Medical Center 334,Tier 3,WI,Midwest,967,42315077.1,43759.12833505688,21
+H0171,Oak Harbor Synthetic Medical Center 171,Tier 2,RI,Northeast,638,42275251.78,66262.15012539185,18
+H0200,Redwood Synthetic Medical Center 200,Tier 2,LA,South,756,42202715.75,55823.69808201058,14
+H0507,Fairview Synthetic Medical Center 507,Tier 2,SC,South,751,42154794.69,56131.55085219707,18
+H0421,Redwood Synthetic Medical Center 421,Tier 3,MS,South,1035,42147669.95,40722.38642512078,20
+H0077,Maple Synthetic Medical Center 077,Tier 3,NJ,Northeast,792,42122751.88,53185.29277777778,21
+H0498,Pinecrest Synthetic Medical Center 498,Tier 2,MA,Northeast,603,41994217.97,69642.15252072968,15
+H0357,Canyon Synthetic Medical Center 357,Tier 2,TN,South,751,41934624.7,55838.38175765646,14
+H0531,Blue Ridge Synthetic Medical Center 531,Tier 2,WY,West,766,41902916.65,54703.54654046997,21
+H0560,Evergreen Synthetic Medical Center 560,Tier 2,RI,Northeast,693,41718041.58,60199.194199134196,16
+H0348,Evergreen Synthetic Medical Center 348,Tier 2,AL,South,731,41685327.98,57025.07247606019,27
+H0567,Riverside Synthetic Medical Center 567,Tier 2,WV,South,842,41669407.67,49488.60768408551,13
+H0555,Cedar Valley Synthetic Medical Center 555,Tier 2,HI,West,589,41499598.97,70457.72320882852,15
+H0211,Redwood Synthetic Medical Center 211,Tier 3,NE,Midwest,1017,41443470.77,40750.70872173058,22
+H0113,Meadowbrook Synthetic Medical Center 113,Tier 2,MS,South,807,41425215.89,51332.3616976456,13
+H0010,Silverline Synthetic Medical Center 010,Tier 3,IL,Midwest,911,41406864.28,45452.101295279914,16
+H0471,Lakeside Synthetic Medical Center 471,Tier 2,ID,West,780,41296101.79,52943.72024358974,24
+H0592,Redwood Synthetic Medical Center 592,Tier 3,MD,South,879,41284807.83,46967.926996587026,16
+H0038,Riverside Synthetic Medical Center 038,Tier 2,WV,South,699,41283718.95,59061.11437768241,19
+H0345,Redwood Synthetic Medical Center 345,Tier 3,LA,South,1023,41204958.26,40278.55157380254,24
+H0412,Summit Synthetic Medical Center 412,Tier 3,HI,West,734,41023793.71,55890.7271253406,17
+H0235,Fairview Synthetic Medical Center 235,Tier 2,VT,Northeast,668,40926084.78,61266.59398203593,17
+H0337,Lakeside Synthetic Medical Center 337,Tier 3,VA,South,812,40910928.63,50382.91703201971,15
+H0375,Silverline Synthetic Medical Center 375,Tier 2,TX,South,639,40776397.89,63812.82924882629,9
+H0435,Maple Synthetic Medical Center 435,Tier 3,WA,West,782,40692096.91,52035.92955242966,22
+H0513,Fairview Synthetic Medical Center 513,Tier 3,MT,West,940,40687244.11,43284.30224468085,18
+H0222,Northstar Synthetic Medical Center 222,Tier 3,HI,West,801,40609679.64,50698.7261423221,24
+H0210,Riverside Synthetic Medical Center 210,Tier 2,MO,Midwest,708,40575922.11,57310.62444915254,14
+H0180,Maple Synthetic Medical Center 180,Tier 2,FL,South,780,40555406.36,51994.110717948715,18
+H0212,Evergreen Synthetic Medical Center 212,Tier 2,DE,South,701,40535227.13,57824.86038516406,11
+H0098,Riverside Synthetic Medical Center 098,Tier 3,WY,West,874,40502595.81,46341.642803203664,19
+H0181,Lakeside Synthetic Medical Center 181,Tier 3,ND,Midwest,865,40396687.49,46701.37282080925,20
+H0478,Northstar Synthetic Medical Center 478,Tier 3,AK,West,816,40317327.62,49408.48973039215,20
+H0539,Maple Synthetic Medical Center 539,Tier 2,AZ,West,681,40204277.83,59037.11869309838,27
+H0394,Northstar Synthetic Medical Center 394,Tier 3,KY,South,952,40147793.8,42172.052310924366,17
+H0497,Silverline Synthetic Medical Center 497,Tier 2,WV,South,831,40089412.37,48242.37348977136,15
+H0323,Meadowbrook Synthetic Medical Center 323,Tier 2,TX,South,697,40047086.11,57456.36457675753,21
+H0366,Northstar Synthetic Medical Center 366,Tier 3,CT,Northeast,747,39985554.54,53528.18546184739,20
+H0241,Blue Ridge Synthetic Medical Center 241,Tier 3,TN,South,894,39973068.61,44712.60470917226,26
+H0299,Canyon Synthetic Medical Center 299,Tier 3,PA,Northeast,782,39950847.83,51088.040703324805,11
+H0234,Redwood Synthetic Medical Center 234,Tier 3,ND,Midwest,793,39890185.95,50302.88266078185,26
+H0593,Riverside Synthetic Medical Center 593,Tier 2,NV,West,674,39771536.77,59008.214792284874,15
+H0009,Evergreen Synthetic Medical Center 009,Tier 3,NH,Northeast,831,39640775.4,47702.49747292419,23
+H0382,Fairview Synthetic Medical Center 382,Tier 2,IA,Midwest,654,39524833.47,60435.525183486236,10
+H0231,Riverside Synthetic Medical Center 231,Tier 3,MI,Midwest,873,39498678.45,45244.76340206186,21
+H0506,Meadowbrook Synthetic Medical Center 506,Tier 2,MD,South,666,39454366.47,59240.790495495494,17
+H0056,Redwood Synthetic Medical Center 056,Tier 3,CO,West,800,39136443.56,48920.55445,20
+H0119,Redwood Synthetic Medical Center 119,Tier 3,VA,South,786,39125028.34,49777.38974554708,12
+H0340,Northstar Synthetic Medical Center 340,Tier 3,MN,Midwest,956,39009160.73,40804.56143305439,17
+H0552,Lakeside Synthetic Medical Center 552,Tier 3,NE,Midwest,940,39001437.62,41490.89108510638,16
+H0385,Blue Ridge Synthetic Medical Center 385,Tier 3,MO,Midwest,867,38993795.44,44975.542606689734,21
+H0599,Redwood Synthetic Medical Center 599,Tier 2,AR,South,722,38973543.94,53979.977756232685,14
+H0285,Maple Synthetic Medical Center 285,Tier 3,CT,Northeast,703,38920880.06,55363.98301564723,18
+H0018,Silverline Synthetic Medical Center 018,Tier 3,NE,Midwest,884,38801250.64,43892.81746606335,18
+H0415,Pinecrest Synthetic Medical Center 415,Tier 3,NV,West,768,38784873.07,50501.136809895834,6
+H0530,Canyon Synthetic Medical Center 530,Tier 3,TN,South,951,38615469.17,40605.12005257624,17
+H0133,Riverside Synthetic Medical Center 133,Tier 2,MI,Midwest,638,38597844.67,60498.18913793104,16
+H0489,Blue Ridge Synthetic Medical Center 489,Tier 3,IA,Midwest,1006,38498583.5,38268.96968190855,23
+H0520,Lakeside Synthetic Medical Center 520,Tier 2,IN,Midwest,713,38420567.39,53885.7887657784,14
+H0286,Fairview Synthetic Medical Center 286,Tier 3,OH,Midwest,910,38260839.12,42044.87815384615,20
+H0065,Oak Harbor Synthetic Medical Center 065,Tier 3,MI,Midwest,838,38252617.4,45647.514797136035,25
+H0154,Fairview Synthetic Medical Center 154,Tier 3,ND,Midwest,848,38218788.74,45069.32634433963,25
+H0288,Canyon Synthetic Medical Center 288,Tier 3,SC,South,909,38082884.67,41895.36267326733,34
+H0030,Maple Synthetic Medical Center 030,Tier 3,VA,South,795,37964677.39,47754.31118238994,8
+H0424,Canyon Synthetic Medical Center 424,Tier 2,KY,South,678,37738072.51,55660.87390855457,7
+H0158,Blue Ridge Synthetic Medical Center 158,Tier 2,MS,South,762,37714120.76,49493.59679790026,14
+H0404,Pinecrest Synthetic Medical Center 404,Tier 3,UT,West,800,37628388.38,47035.485475,10
+H0023,Cedar Valley Synthetic Medical Center 023,Tier 3,UT,West,974,37599633.7,38603.32002053389,25
+H0031,Blue Ridge Synthetic Medical Center 031,Tier 3,LA,South,853,37510542.82,43974.84504103165,14
+H0487,Canyon Synthetic Medical Center 487,Tier 3,MT,West,900,37492112.35,41657.902611111116,24
+H0566,Redwood Synthetic Medical Center 566,Tier 2,SD,Midwest,700,37434050.63,53477.21518571429,14
+H0036,Pinecrest Synthetic Medical Center 036,Tier 3,MN,Midwest,964,37422620.13,38820.145363070544,28
+H0529,Redwood Synthetic Medical Center 529,Tier 3,RI,Northeast,641,37384999.96,58322.9328549142,10
+H0376,Lakeside Synthetic Medical Center 376,Tier 3,AK,West,747,37255168.46,49873.05014725569,4
+H0173,Silverline Synthetic Medical Center 173,Tier 3,KY,South,893,37225230.31,41685.58825307951,24
+H0148,Redwood Synthetic Medical Center 148,Tier 3,AZ,West,810,37224166.22,45955.7607654321,22
+H0096,Summit Synthetic Medical Center 096,Tier 3,CT,Northeast,769,37080165.02,48218.680130039014,24
+H0069,Pinecrest Synthetic Medical Center 069,Tier 2,SC,South,720,36885491.02,51229.84863888889,12
+H0059,Meadowbrook Synthetic Medical Center 059,Tier 2,WY,West,644,36796291.78,57137.099037267086,18
+H0430,Silverline Synthetic Medical Center 430,Tier 2,NH,Northeast,600,36792137.39,61320.228983333334,13
+H0510,Evergreen Synthetic Medical Center 510,Tier 3,AL,South,968,36726280.31,37940.37222107438,28
+H0339,Blue Ridge Synthetic Medical Center 339,Tier 3,MI,Midwest,834,36717946.05,44026.31420863309,16
+H0554,Summit Synthetic Medical Center 554,Tier 3,NV,West,881,36716466.68,41675.89861520999,26
+H0573,Oak Harbor Synthetic Medical Center 573,Tier 3,MT,West,761,36682878.07,48203.51914586071,19
+H0276,Lakeside Synthetic Medical Center 276,Tier 3,NY,Northeast,616,36573232.44,59372.13058441558,7
+H0483,Evergreen Synthetic Medical Center 483,Tier 3,KS,Midwest,880,36572295.13,41559.426284090914,26
+H0397,Summit Synthetic Medical Center 397,Tier 3,RI,Northeast,791,36482265.24,46121.70068268015,12
+H0591,Redwood Synthetic Medical Center 591,Tier 3,NJ,Northeast,600,36453715.18,60756.191966666665,14
+H0303,Redwood Synthetic Medical Center 303,Tier 2,NH,Northeast,595,36368560.28,61123.63072268908,12
+H0473,Maple Synthetic Medical Center 473,Tier 2,OH,Midwest,650,36331885.45,55895.20838461539,12
+H0155,Lakeside Synthetic Medical Center 155,Tier 3,DE,South,807,36288963.66,44967.73687732341,16
+H0172,Silverline Synthetic Medical Center 172,Tier 3,MA,Northeast,664,36254902.46,54600.75671686747,15
+H0068,Fairview Synthetic Medical Center 068,Tier 2,KS,Midwest,637,36235239.13,56884.205855573004,13
+H0373,Northstar Synthetic Medical Center 373,Tier 2,MS,South,715,36133674.52,50536.607720279724,31
+H0454,Pinecrest Synthetic Medical Center 454,Tier 2,NM,West,708,36121427.92,51018.96598870057,12
+H0139,Evergreen Synthetic Medical Center 139,Tier 2,RI,Northeast,612,36110872.5,59004.69362745098,18
+H0470,Pinecrest Synthetic Medical Center 470,Tier 3,MD,South,752,36080107.66,47978.86656914893,18
+H0201,Blue Ridge Synthetic Medical Center 201,Tier 2,NH,Northeast,634,35908579.3,56638.13769716088,21
+H0344,Summit Synthetic Medical Center 344,Tier 3,SD,Midwest,800,35892237.28,44865.2966,13
+H0353,Fairview Synthetic Medical Center 353,Tier 3,RI,Northeast,798,35821022.93,44888.4999122807,18
+H0311,Meadowbrook Synthetic Medical Center 311,Tier 2,HI,West,584,35806841.74,61313.08517123288,15
+H0272,Cedar Valley Synthetic Medical Center 272,Tier 3,CT,Northeast,720,35789090.17,49707.069680555556,6
+H0595,Blue Ridge Synthetic Medical Center 595,Tier 3,UT,West,890,35758078.29,40177.61605617977,11
+H0033,Meadowbrook Synthetic Medical Center 033,Tier 3,NV,West,858,35435946.05,41300.63642191142,14
+H0594,Lakeside Synthetic Medical Center 594,Tier 3,LA,South,770,35432355.5,46016.04610389611,14
+H0335,Silverline Synthetic Medical Center 335,Tier 3,WI,Midwest,792,35377540.63,44668.61190656566,19
+H0458,Northstar Synthetic Medical Center 458,Tier 3,TN,South,840,35320821.7,42048.59726190477,15
+H0440,Oak Harbor Synthetic Medical Center 440,Tier 3,ME,Northeast,835,35270765.29,42240.43747305389,15
+H0011,Silverline Synthetic Medical Center 011,Tier 3,NJ,Northeast,669,35251687.57,52693.1054857997,13
+H0169,Maple Synthetic Medical Center 169,Tier 3,MI,Midwest,765,35239391.89,46064.5645620915,28
+H0224,Oak Harbor Synthetic Medical Center 224,Tier 3,DE,South,757,35223643.33,46530.57243064729,20
+H0081,Lakeside Synthetic Medical Center 081,Tier 2,TN,South,653,35157487.29,53839.94990811638,16
+H0484,Oak Harbor Synthetic Medical Center 484,Tier 3,RI,Northeast,769,35144010.27,45700.92362808843,26
+H0472,Redwood Synthetic Medical Center 472,Tier 3,KY,South,968,35131937.98,36293.32435950413,15
+H0581,Maple Synthetic Medical Center 581,Tier 3,NY,Northeast,674,35093263.84,52067.15703264096,25
+H0553,Cedar Valley Synthetic Medical Center 553,Tier 3,VA,South,768,35031974.43,45614.5500390625,24
+H0160,Lakeside Synthetic Medical Center 160,Tier 3,NM,West,811,35029940.57,43193.51488286067,19
+H0329,Evergreen Synthetic Medical Center 329,Tier 2,ME,Northeast,669,34943423.8,52232.32257100149,14
+H0571,Pinecrest Synthetic Medical Center 571,Tier 2,NV,West,600,34932267.42,58220.445700000004,18
+H0324,Cedar Valley Synthetic Medical Center 324,Tier 3,AL,South,831,34932029.68,42036.136799037304,29
+H0351,Pinecrest Synthetic Medical Center 351,Tier 2,OH,Midwest,554,34908376.12,63011.509241877255,18
+H0405,Blue Ridge Synthetic Medical Center 405,Tier 2,NV,West,621,34877921.86,56164.1253784219,21
+H0600,Canyon Synthetic Medical Center 600,Tier 3,MD,South,672,34873928.08,51895.72630952381,13
+H0189,Silverline Synthetic Medical Center 189,Tier 3,NJ,Northeast,671,34855273.48,51945.26599105812,19
+H0437,Summit Synthetic Medical Center 437,Tier 3,MS,South,780,34833472.61,44658.298217948715,25
+H0176,Meadowbrook Synthetic Medical Center 176,Tier 3,ND,Midwest,795,34811888.41,43788.53888050314,21
+H0300,Pinecrest Synthetic Medical Center 300,Tier 3,NJ,Northeast,717,34784849.73,48514.434769874475,24
+H0125,Cedar Valley Synthetic Medical Center 125,Tier 3,DE,South,710,34731314.36,48917.34416901408,14
+H0217,Silverline Synthetic Medical Center 217,Tier 2,MO,Midwest,672,34724100.17,51672.768110119054,22
+H0082,Lakeside Synthetic Medical Center 082,Tier 3,AL,South,771,34581523.51,44852.819079118024,22
+H0546,Oak Harbor Synthetic Medical Center 546,Tier 3,MO,Midwest,770,34511526.68,44820.16451948052,14
+H0517,Blue Ridge Synthetic Medical Center 517,Tier 3,KS,Midwest,868,34498730.84,39745.08161290323,17
+H0456,Meadowbrook Synthetic Medical Center 456,Tier 3,WV,South,730,34425724.42,47158.52660273973,22
+H0301,Redwood Synthetic Medical Center 301,Tier 3,AL,South,776,34351880.73,44267.88753865979,24
+H0128,Oak Harbor Synthetic Medical Center 128,Tier 3,TN,South,787,34331480.59,43623.2281956798,14
+H0269,Summit Synthetic Medical Center 269,Tier 3,NM,West,799,34328960.36,42964.906583229036,14
+H0341,Blue Ridge Synthetic Medical Center 341,Tier 2,NM,West,590,34162158.72,57901.96393220339,13
+H0482,Evergreen Synthetic Medical Center 482,Tier 3,IA,Midwest,823,34034269.6,41353.912029161605,15
+H0314,Riverside Synthetic Medical Center 314,Tier 3,PA,Northeast,718,33937614.01,47266.87188022284,13
+H0179,Canyon Synthetic Medical Center 179,Tier 3,DE,South,727,33882867.19,46606.41979367263,13
+H0194,Oak Harbor Synthetic Medical Center 194,Tier 2,WY,West,582,33871115.83,58197.79352233677,13
+H0216,Canyon Synthetic Medical Center 216,Tier 2,AK,West,553,33839774.91,61193.08301989149,14
+H0053,Lakeside Synthetic Medical Center 053,Tier 2,ND,Midwest,593,33710457.56,56847.31460370995,9
+H0195,Redwood Synthetic Medical Center 195,Tier 3,LA,South,822,33676651.11,40969.16193430657,25
+H0316,Cedar Valley Synthetic Medical Center 316,Tier 3,WA,West,607,33644604.08,55427.68382207578,10
+H0029,Pinecrest Synthetic Medical Center 029,Tier 3,VT,Northeast,780,33586416.91,43059.508858974354,18
+H0504,Cedar Valley Synthetic Medical Center 504,Tier 2,ME,Northeast,546,33084249.42,60593.86340659341,12
+H0511,Northstar Synthetic Medical Center 511,Tier 2,AL,South,606,32994401.79,54446.20757425742,18
+H0500,Meadowbrook Synthetic Medical Center 500,Tier 3,NM,West,792,32982435.78,41644.489621212124,15
+H0419,Lakeside Synthetic Medical Center 419,Tier 3,WV,South,867,32981745.62,38041.229088812,20
+H0274,Fairview Synthetic Medical Center 274,Tier 3,MA,Northeast,630,32918159.36,52251.046603174604,12
+H0121,Cedar Valley Synthetic Medical Center 121,Tier 2,NM,West,603,32912543.330000002,54581.33222222223,13
+H0468,Redwood Synthetic Medical Center 468,Tier 3,LA,South,724,32833038.34,45349.50046961326,22
+H0332,Pinecrest Synthetic Medical Center 332,Tier 3,NH,Northeast,794,32790547.97,41297.919357682615,16
+H0413,Pinecrest Synthetic Medical Center 413,Tier 2,NJ,Northeast,521,32745156.93,62850.589117082534,12
+H0527,Cedar Valley Synthetic Medical Center 527,Tier 3,OK,South,861,32597496.34,37860.042206736354,19
+H0127,Lakeside Synthetic Medical Center 127,Tier 3,MS,South,809,32470542.36,40136.64074165637,23
+H0439,Meadowbrook Synthetic Medical Center 439,Tier 3,MT,West,700,32290223.45,46128.89064285714,11
+H0429,Lakeside Synthetic Medical Center 429,Tier 2,KY,South,532,32090362.34,60320.22996240602,13
+H0519,Meadowbrook Synthetic Medical Center 519,Tier 3,WY,West,802,32056636.81,39970.868840399,11
+H0361,Summit Synthetic Medical Center 361,Tier 3,WA,West,662,32017742.9,48365.17054380664,18
+H0411,Oak Harbor Synthetic Medical Center 411,Tier 2,NM,West,636,32002944.0,50319.09433962264,11
+H0149,Riverside Synthetic Medical Center 149,Tier 3,IN,Midwest,700,31996531.32,45709.33045714286,22
+H0265,Summit Synthetic Medical Center 265,Tier 3,CO,West,624,31876982.94,51084.90855769231,19
+H0383,Pinecrest Synthetic Medical Center 383,Tier 3,LA,South,766,31869900.79,41605.61460835509,20
+H0352,Blue Ridge Synthetic Medical Center 352,Tier 2,MS,South,583,31657321.66,54300.72325900514,8
+H0147,Canyon Synthetic Medical Center 147,Tier 3,DE,South,782,31577586.14,40380.54493606138,17
+H0040,Riverside Synthetic Medical Center 040,Tier 3,LA,South,720,31574258.07,43853.13620833334,18
+H0475,Maple Synthetic Medical Center 475,Tier 3,DE,South,688,31497636.419999998,45781.44828488372,17
+H0071,Fairview Synthetic Medical Center 071,Tier 3,UT,West,713,31480419.34,44152.06078541374,21
+H0044,Redwood Synthetic Medical Center 044,Tier 3,MD,South,679,31420495.14,46274.66147275405,19
+H0368,Silverline Synthetic Medical Center 368,Tier 3,MO,Midwest,743,31311381.95,42141.83304172275,16
+H0445,Blue Ridge Synthetic Medical Center 445,Tier 3,NE,Midwest,753,31308465.18,41578.307011952194,16
+H0174,Evergreen Synthetic Medical Center 174,Tier 2,AL,South,612,31278521.16,51108.69470588235,20
+H0074,Summit Synthetic Medical Center 074,Tier 3,TN,South,683,31211547.37,45697.72674963397,15
+H0129,Cedar Valley Synthetic Medical Center 129,Tier 3,DE,South,703,31058472.82,44179.904438122336,18
+H0167,Blue Ridge Synthetic Medical Center 167,Tier 3,AR,South,747,30895023.14,41358.799384203485,17
+H0564,Oak Harbor Synthetic Medical Center 564,Tier 3,NJ,Northeast,568,30863805.69,54337.68607394367,14
+H0480,Blue Ridge Synthetic Medical Center 480,Tier 2,RI,Northeast,495,30759257.96,62139.91507070707,7
+H0526,Evergreen Synthetic Medical Center 526,Tier 3,MT,West,749,30733047.97,41032.10676902536,17
+H0403,Maple Synthetic Medical Center 403,Tier 3,DE,South,716,30729604.12,42918.44150837989,17
+H0494,Lakeside Synthetic Medical Center 494,Tier 3,AL,South,744,30617758.8,41152.901612903224,15
+H0146,Oak Harbor Synthetic Medical Center 146,Tier 3,NJ,Northeast,637,30610051.21,48053.45558869702,11
+H0126,Cedar Valley Synthetic Medical Center 126,Tier 3,MS,South,826,30578342.42,37019.78501210654,21
+H0260,Lakeside Synthetic Medical Center 260,Tier 2,MA,Northeast,495,30555203.11,61727.683050505046,12
+H0275,Blue Ridge Synthetic Medical Center 275,Tier 2,MS,South,630,30483727.84,48386.86958730159,13
+H0110,Silverline Synthetic Medical Center 110,Tier 3,WV,South,737,30480440.2,41357.44938941655,20
+H0016,Northstar Synthetic Medical Center 016,Tier 3,WY,West,771,30471251.0,39521.72632944228,23
+H0089,Summit Synthetic Medical Center 089,Tier 3,SC,South,720,30407340.51,42232.417375000005,29
+H0281,Blue Ridge Synthetic Medical Center 281,Tier 3,AZ,West,762,30343704.27,39821.13421259842,6
+H0481,Blue Ridge Synthetic Medical Center 481,Tier 2,KY,South,534,30272671.669999998,56690.39638576779,8
+H0416,Fairview Synthetic Medical Center 416,Tier 3,VA,South,703,30241936.5,43018.40184921764,14
+H0024,Riverside Synthetic Medical Center 024,Tier 2,NM,West,573,30220518.53,52740.870034904015,15
+H0392,Maple Synthetic Medical Center 392,Tier 3,VT,Northeast,611,30210243.72,49443.934075286415,18
+H0447,Oak Harbor Synthetic Medical Center 447,Tier 3,VA,South,678,30099365.27,44394.34405604719,15
+H0282,Riverside Synthetic Medical Center 282,Tier 3,WA,West,583,30096241.21,51623.05524871355,10
+H0013,Canyon Synthetic Medical Center 013,Tier 2,IA,Midwest,544,29996802.48,55141.18102941177,11
+H0457,Riverside Synthetic Medical Center 457,Tier 3,WA,West,619,29853794.68,48229.07056542811,14
+H0051,Cedar Valley Synthetic Medical Center 051,Tier 3,WI,Midwest,749,29850289.31,39853.52377837116,18
+H0295,Northstar Synthetic Medical Center 295,Tier 3,OK,South,613,29811524.830000002,48632.17753670474,17
+H0041,Cedar Valley Synthetic Medical Center 041,Tier 3,UT,West,684,29756786.07,43504.073201754385,18
+H0542,Pinecrest Synthetic Medical Center 542,Tier 3,OK,South,671,29734041.18,44313.027093889716,9
+H0108,Redwood Synthetic Medical Center 108,Tier 3,MA,Northeast,600,29704877.75,49508.129583333335,17
+H0400,Canyon Synthetic Medical Center 400,Tier 3,WV,South,816,29699975.68,36397.02901960784,18
+H0094,Lakeside Synthetic Medical Center 094,Tier 3,KS,Midwest,668,29608127.69,44323.544446107786,11
+H0433,Riverside Synthetic Medical Center 433,Tier 3,OK,South,746,29464675.08,39496.883485254686,25
+H0410,Redwood Synthetic Medical Center 410,Tier 3,CO,West,624,29399999.6,47115.38397435898,16
+H0256,Northstar Synthetic Medical Center 256,Tier 3,WY,West,720,29270304.86,40653.201194444446,13
+H0590,Redwood Synthetic Medical Center 590,Tier 2,WA,West,475,29201794.64,61477.462400000004,10
+H0438,Canyon Synthetic Medical Center 438,Tier 2,NJ,Northeast,446,29181506.2,65429.38609865471,7
+H0563,Redwood Synthetic Medical Center 563,Tier 3,MS,South,863,29075457.49,33691.144252607184,20
+H0333,Riverside Synthetic Medical Center 333,Tier 3,AL,South,775,29044498.04,37476.77166451613,18
+H0192,Riverside Synthetic Medical Center 192,Tier 2,ME,Northeast,509,28804819.56,56591.00110019646,5
+H0047,Pinecrest Synthetic Medical Center 047,Tier 3,AR,South,636,28676143.98,45088.27669811321,15
+H0287,Oak Harbor Synthetic Medical Center 287,Tier 2,AL,South,485,28630708.759999998,59032.38919587628,13
+H0259,Lakeside Synthetic Medical Center 259,Tier 3,NM,West,743,28624956.4,38526.18627187079,16
+H0215,Fairview Synthetic Medical Center 215,Tier 3,DE,South,700,28359974.2,40514.248857142855,14
+H0088,Silverline Synthetic Medical Center 088,Tier 3,OK,South,739,28281108.59,38269.429756427606,16
+H0362,Silverline Synthetic Medical Center 362,Tier 3,MT,West,680,28127954.68,41364.63923529412,15
+H0336,Silverline Synthetic Medical Center 336,Tier 3,SC,South,706,28016091.77,39682.8495325779,16
+H0261,Maple Synthetic Medical Center 261,Tier 3,WA,West,604,28007563.34,46370.13798013245,5
+H0137,Riverside Synthetic Medical Center 137,Tier 3,WI,Midwest,715,27959174.56,39103.74064335664,14
+H0283,Silverline Synthetic Medical Center 283,Tier 3,SC,South,638,27942093.93,43796.38547021944,13
+H0136,Fairview Synthetic Medical Center 136,Tier 3,ID,West,692,27905269.66,40325.534190751445,14
+H0491,Evergreen Synthetic Medical Center 491,Tier 3,SC,South,696,27769227.44,39898.31528735632,13
+H0418,Oak Harbor Synthetic Medical Center 418,Tier 3,MT,West,562,27741561.73,49362.20948398577,11
+H0188,Silverline Synthetic Medical Center 188,Tier 3,AK,West,532,27740543.96,52143.87962406015,14
+H0196,Meadowbrook Synthetic Medical Center 196,Tier 3,AR,South,656,27564529.09,42019.09922256097,15
+H0317,Silverline Synthetic Medical Center 317,Tier 3,SD,Midwest,649,27540486.08,42435.26360554699,18
+H0514,Lakeside Synthetic Medical Center 514,Tier 3,NJ,Northeast,526,27530469.34,52339.29532319392,10
+H0048,Northstar Synthetic Medical Center 048,Tier 3,KY,South,616,27524345.14,44682.37847402597,11
+H0249,Summit Synthetic Medical Center 249,Tier 3,NE,Midwest,608,27505644.96,45239.54763157895,15
+H0039,Redwood Synthetic Medical Center 039,Tier 3,WV,South,639,27483587.15,43010.308528951486,15
+H0022,Summit Synthetic Medical Center 022,Tier 3,AL,South,724,27449498.46,37913.67190607735,17
+H0377,Cedar Valley Synthetic Medical Center 377,Tier 3,AK,West,600,27429982.07,45716.636783333335,7
+H0226,Blue Ridge Synthetic Medical Center 226,Tier 3,MA,Northeast,503,27361761.99,54397.14113320079,15
+H0060,Canyon Synthetic Medical Center 060,Tier 3,KY,South,690,27281554.89,39538.485347826085,14
+H0026,Oak Harbor Synthetic Medical Center 026,Tier 3,ME,Northeast,592,27279398.56,46080.06513513513,19
+H0559,Blue Ridge Synthetic Medical Center 559,Tier 3,NJ,Northeast,541,27218676.31,50311.78615526802,9
+H0034,Evergreen Synthetic Medical Center 034,Tier 3,KY,South,629,27213815.84,43265.2080127186,20
+H0184,Fairview Synthetic Medical Center 184,Tier 3,WV,South,709,27191829.49,38352.36881523272,15
+H0512,Evergreen Synthetic Medical Center 512,Tier 3,LA,South,659,27157403.63,41210.0206828528,8
+H0302,Maple Synthetic Medical Center 302,Tier 3,MI,Midwest,656,27028138.5,41201.4306402439,13
+H0185,Meadowbrook Synthetic Medical Center 185,Tier 3,NJ,Northeast,503,26983910.87,53645.94606361829,10
+H0246,Riverside Synthetic Medical Center 246,Tier 3,DE,South,723,26966436.3,37297.9755186722,16
+H0115,Fairview Synthetic Medical Center 115,Tier 3,NE,Midwest,585,26891585.1,45968.521538461544,9
+H0006,Summit Synthetic Medical Center 006,Tier 3,CO,West,534,26847644.76,50276.488314606744,21
+H0232,Canyon Synthetic Medical Center 232,Tier 3,AL,South,715,26675305.64,37308.11977622378,19
+H0202,Blue Ridge Synthetic Medical Center 202,Tier 3,IN,Midwest,706,26666995.08,37771.94770538243,15
+H0434,Riverside Synthetic Medical Center 434,Tier 3,RI,Northeast,627,26663192.11,42525.02728867623,10
+H0240,Riverside Synthetic Medical Center 240,Tier 3,VT,Northeast,660,26610187.39,40318.46574242425,19
+H0280,Silverline Synthetic Medical Center 280,Tier 3,TN,South,643,26554083.56,41297.175054432344,13
+H0509,Cedar Valley Synthetic Medical Center 509,Tier 3,NV,West,662,26551292.99,40107.693338368575,18
+H0306,Fairview Synthetic Medical Center 306,Tier 3,NY,Northeast,515,26527353.8,51509.42485436893,15
+H0095,Northstar Synthetic Medical Center 095,Tier 3,OK,South,701,26427908.81,37700.297874465046,16
+H0444,Oak Harbor Synthetic Medical Center 444,Tier 2,UT,West,494,26392193.33,53425.4925708502,14
+H0598,Redwood Synthetic Medical Center 598,Tier 3,RI,Northeast,506,26367920.91,52110.515632411065,14
+H0464,Meadowbrook Synthetic Medical Center 464,Tier 3,KS,Midwest,597,26323885.07,44093.609832495815,19
+H0558,Evergreen Synthetic Medical Center 558,Tier 3,UT,West,598,26274755.37,43937.718010033444,14
+H0587,Cedar Valley Synthetic Medical Center 587,Tier 3,KS,Midwest,574,26260024.78,45749.172090592336,17
+H0379,Cedar Valley Synthetic Medical Center 379,Tier 2,MS,South,637,26205725.9,41139.28712715855,14
+H0349,Maple Synthetic Medical Center 349,Tier 3,MO,Midwest,643,26193377.98,40736.20214618974,24
+H0459,Blue Ridge Synthetic Medical Center 459,Tier 3,LA,South,666,26140092.1,39249.38753753754,11
+H0015,Fairview Synthetic Medical Center 015,Tier 3,MS,South,620,26136308.759999998,42155.33670967742,11
+H0213,Riverside Synthetic Medical Center 213,Tier 3,NM,West,689,26057468.81,37819.25806966618,23
+H0401,Meadowbrook Synthetic Medical Center 401,Tier 3,WV,South,670,26005879.94,38814.74617910448,19
+H0313,Silverline Synthetic Medical Center 313,Tier 3,UT,West,572,25978916.24,45417.68573426573,14
+H0271,Fairview Synthetic Medical Center 271,Tier 3,SC,South,635,25915176.68,40811.30185826772,14
+H0178,Summit Synthetic Medical Center 178,Tier 2,NM,West,477,25822726.22,54135.69438155136,14
+H0386,Blue Ridge Synthetic Medical Center 386,Tier 3,LA,South,582,25746573.15,44238.098195876286,19
+H0556,Blue Ridge Synthetic Medical Center 556,Tier 3,TN,South,570,25729881.87,45140.14363157895,9
+H0130,Fairview Synthetic Medical Center 130,Tier 2,AR,South,603,25704434.81,42627.5867495854,13
+H0577,Pinecrest Synthetic Medical Center 577,Tier 3,WV,South,645,25701930.64,39847.95448062016,17
+H0220,Fairview Synthetic Medical Center 220,Tier 3,MS,South,649,25614213.51,39467.201093990756,14
+H0091,Maple Synthetic Medical Center 091,Tier 3,SC,South,616,25506277.77,41406.29508116883,13
+H0159,Riverside Synthetic Medical Center 159,Tier 3,SC,South,631,25325111.68,40134.883803486526,19
+H0364,Lakeside Synthetic Medical Center 364,Tier 3,LA,South,593,25156343.65,42422.16467116357,13
+H0233,Riverside Synthetic Medical Center 233,Tier 3,WV,South,630,24959838.8,39618.79174603175,20
+H0209,Meadowbrook Synthetic Medical Center 209,Tier 3,SC,South,632,24867482.74,39347.28281645569,14
+H0236,Fairview Synthetic Medical Center 236,Tier 3,NH,Northeast,583,24803901.0,42545.28473413379,8
+H0107,Northstar Synthetic Medical Center 107,Tier 3,KS,Midwest,606,24785665.98,40900.43891089109,12
+H0588,Pinecrest Synthetic Medical Center 588,Tier 3,WV,South,564,24624744.22,43660.894007092196,12
+H0579,Lakeside Synthetic Medical Center 579,Tier 3,WV,South,586,24593060.95,41967.680802047784,16
+H0163,Redwood Synthetic Medical Center 163,Tier 2,MS,South,507,24407172.28,48140.3792504931,5
+H0001,Redwood Synthetic Medical Center 001,Tier 3,NE,Midwest,571,24315545.54,42584.142802101574,15
+H0583,Fairview Synthetic Medical Center 583,Tier 3,SC,South,603,24084772.42,39941.579469320066,8
+H0253,Fairview Synthetic Medical Center 253,Tier 3,KS,Midwest,540,24078175.4,44589.2137037037,9
+H0161,Canyon Synthetic Medical Center 161,Tier 3,MO,Midwest,508,23808341.17,46866.813326771655,9
+H0460,Meadowbrook Synthetic Medical Center 460,Tier 3,DE,South,512,23754135.73,46394.79634765625,14
+H0414,Pinecrest Synthetic Medical Center 414,Tier 3,FL,South,457,23604879.5,51651.81509846827,6
+H0408,Riverside Synthetic Medical Center 408,Tier 2,CO,West,419,23550276.15,56205.90966587112,8
+H0019,Summit Synthetic Medical Center 019,Tier 3,VA,South,461,23505049.39,50987.09195227766,14
+H0221,Oak Harbor Synthetic Medical Center 221,Tier 3,RI,Northeast,509,23459364.39,46089.12453831041,9
+H0407,Northstar Synthetic Medical Center 407,Tier 3,NC,South,627,23417946.02,37349.19620414673,9
+H0166,Lakeside Synthetic Medical Center 166,Tier 3,WA,West,491,23367575.22,47591.80289205702,12
+H0576,Redwood Synthetic Medical Center 576,Tier 3,KY,South,568,23314585.53,41046.80551056338,18
+H0492,Cedar Valley Synthetic Medical Center 492,Tier 2,WY,West,418,23188753.81,55475.48758373206,2
+H0580,Cedar Valley Synthetic Medical Center 580,Tier 2,ID,West,375,22897831.97,61060.88525333333,10
+H0049,Cedar Valley Synthetic Medical Center 049,Tier 3,OK,South,531,22877996.44,43084.739058380415,11
+H0448,Canyon Synthetic Medical Center 448,Tier 3,AR,South,581,22854955.27,39337.27240963855,18
+H0432,Silverline Synthetic Medical Center 432,Tier 3,IA,Midwest,509,22709813.35,44616.52917485266,12
+H0543,Meadowbrook Synthetic Medical Center 543,Tier 3,DE,South,528,22704865.26,43001.638750000006,10
+H0417,Canyon Synthetic Medical Center 417,Tier 3,TX,South,483,22640976.3,46875.727329192545,6
+H0187,Pinecrest Synthetic Medical Center 187,Tier 3,AL,South,560,22551644.75,40270.79419642857,20
+H0245,Silverline Synthetic Medical Center 245,Tier 3,ME,Northeast,570,22524279.61,39516.28001754386,8
+H0479,Northstar Synthetic Medical Center 479,Tier 3,OK,South,525,22375024.28,42619.09386666667,7
+H0502,Silverline Synthetic Medical Center 502,Tier 3,IA,Midwest,559,22204607.62,39722.01720930233,10
+H0476,Pinecrest Synthetic Medical Center 476,Tier 3,SD,Midwest,556,22138111.13,39816.746636690645,15
+H0079,Maple Synthetic Medical Center 079,Tier 3,KS,Midwest,496,21892097.12,44137.29258064516,16
+H0064,Pinecrest Synthetic Medical Center 064,Tier 3,UT,West,521,21882037.39,42000.07176583493,8
+H0214,Summit Synthetic Medical Center 214,Tier 3,ME,Northeast,559,21761491.95,38929.32370304114,10
+H0426,Northstar Synthetic Medical Center 426,Tier 3,KS,Midwest,520,21737223.48,41802.352846153844,16
+H0402,Pinecrest Synthetic Medical Center 402,Tier 3,AR,South,551,21430783.91,38894.344664246826,18
+H0203,Riverside Synthetic Medical Center 203,Tier 3,TN,South,501,21416510.18,42747.525309381235,7
+H0293,Maple Synthetic Medical Center 293,Tier 3,MS,South,502,21396014.08,42621.54199203187,15
+H0123,Cedar Valley Synthetic Medical Center 123,Tier 3,IA,Midwest,511,21392932.28,41864.83812133073,10
+H0118,Maple Synthetic Medical Center 118,Tier 3,VT,Northeast,556,21228737.35,38181.18228417267,8
+H0330,Silverline Synthetic Medical Center 330,Tier 3,MA,Northeast,448,21095339.24,47087.810803571425,6
+H0466,Canyon Synthetic Medical Center 466,Tier 3,VT,Northeast,478,21063440.54,44065.77518828452,14
+H0596,Northstar Synthetic Medical Center 596,Tier 3,IN,Midwest,493,20825087.71,42241.55722109534,8
+H0152,Canyon Synthetic Medical Center 152,Tier 3,OK,South,562,20824988.54,37055.13975088968,17
+H0063,Pinecrest Synthetic Medical Center 063,Tier 3,KS,Midwest,501,20751886.8,41420.931736526945,11
+H0145,Meadowbrook Synthetic Medical Center 145,Tier 3,VT,Northeast,441,20566635.39,46636.36142857143,16
+H0455,Summit Synthetic Medical Center 455,Tier 2,VT,Northeast,325,20481641.62,63020.435753846155,16
+H0359,Lakeside Synthetic Medical Center 359,Tier 3,OK,South,588,20322006.39,34561.23535714286,22
+H0575,Riverside Synthetic Medical Center 575,Tier 3,WI,Midwest,442,20275186.09,45871.46174208145,10
+H0467,Cedar Valley Synthetic Medical Center 467,Tier 3,DE,South,482,20144766.55,41794.121473029045,16
+H0319,Meadowbrook Synthetic Medical Center 319,Tier 2,MT,West,403,20109687.17,49899.968163771715,9
+H0093,Canyon Synthetic Medical Center 093,Tier 3,WI,Midwest,512,20017320.4,39096.32890625,12
+H0442,Blue Ridge Synthetic Medical Center 442,Tier 2,IA,Midwest,423,19924665.12,47103.227234042555,10
+H0574,Summit Synthetic Medical Center 574,Tier 2,VT,Northeast,329,19902618.11,60494.27996960486,5
+H0371,Pinecrest Synthetic Medical Center 371,Tier 3,AL,South,404,19812455.7,49040.731930693066,11
+H0250,Northstar Synthetic Medical Center 250,Tier 3,RI,Northeast,423,19799462.47,46807.23988179669,8
+H0423,Blue Ridge Synthetic Medical Center 423,Tier 3,NH,Northeast,453,19731537.21,43557.47728476821,10
+H0008,Canyon Synthetic Medical Center 008,Tier 3,IN,Midwest,451,19704357.9,43690.37228381375,19
+H0114,Maple Synthetic Medical Center 114,Tier 3,MT,West,490,19524487.21,39845.89226530612,7
+H0388,Lakeside Synthetic Medical Center 388,Tier 3,MS,South,493,19480791.73,39514.79052738337,6
+H0428,Redwood Synthetic Medical Center 428,Tier 3,RI,Northeast,390,19342886.79,49597.145615384616,8
+H0101,Lakeside Synthetic Medical Center 101,Tier 3,AL,South,545,19235766.33,35294.984091743114,16
+H0331,Summit Synthetic Medical Center 331,Tier 3,VT,Northeast,460,19150595.43,41631.72919565217,26
+H0533,Pinecrest Synthetic Medical Center 533,Tier 3,MS,South,503,19132150.33,38036.08415506958,11
+H0490,Lakeside Synthetic Medical Center 490,Tier 3,MS,South,470,19030576.46,40490.58821276596,14
+H0453,Canyon Synthetic Medical Center 453,Tier 3,AR,South,512,19014182.56,37137.0753125,11
+H0205,Lakeside Synthetic Medical Center 205,Tier 3,KS,Midwest,410,18985008.59,46304.899,6
+H0199,Northstar Synthetic Medical Center 199,Tier 3,NH,Northeast,448,18718999.52,41783.48107142857,7
+H0449,Meadowbrook Synthetic Medical Center 449,Tier 3,ME,Northeast,417,18341208.93,43983.714460431656,11
+H0190,Evergreen Synthetic Medical Center 190,Tier 3,AR,South,490,18294720.64,37336.16457142857,9
+H0342,Silverline Synthetic Medical Center 342,Tier 3,TN,South,430,18267893.56,42483.47339534883,6
+H0409,Summit Synthetic Medical Center 409,Tier 3,ID,West,419,18218649.28,43481.263198090695,7
+H0521,Northstar Synthetic Medical Center 521,Tier 3,NM,West,450,18074778.31,40166.17402222222,10
+H0229,Maple Synthetic Medical Center 229,Tier 3,IN,Midwest,467,18048051.4,38646.79100642398,7
+H0062,Maple Synthetic Medical Center 062,Tier 3,LA,South,424,17581082.73,41464.817759433965,9
+H0540,Redwood Synthetic Medical Center 540,Tier 3,TN,South,423,17400584.89,41136.13449172577,8
+H0391,Northstar Synthetic Medical Center 391,Tier 3,NE,Midwest,404,17094492.22,42313.099554455446,21
+H0223,Blue Ridge Synthetic Medical Center 223,Tier 3,ND,Midwest,399,16980795.71,42558.38523809524,7
+H0488,Meadowbrook Synthetic Medical Center 488,Tier 3,MS,South,446,16978768.92,38068.988609865475,8
+H0347,Evergreen Synthetic Medical Center 347,Tier 3,NH,Northeast,371,16629493.71,44823.433180593,11
+H0427,Oak Harbor Synthetic Medical Center 427,Tier 3,AL,South,449,16551935.46,36863.9987973274,8
+H0499,Oak Harbor Synthetic Medical Center 499,Tier 3,ME,Northeast,397,16369253.47,41232.37649874056,14
+H0075,Meadowbrook Synthetic Medical Center 075,Tier 3,AR,South,440,16319253.55,37089.212613636366,6
+H0292,Riverside Synthetic Medical Center 292,Tier 3,SC,South,411,16261011.24,39564.50423357664,8
+H0535,Summit Synthetic Medical Center 535,Tier 3,MT,West,403,16233806.68,40282.39870967742,6
+H0505,Meadowbrook Synthetic Medical Center 505,Tier 3,WV,South,432,15972996.790000001,36974.52960648148,11
+H0431,Silverline Synthetic Medical Center 431,Tier 3,SD,Midwest,360,15688057.44,43577.937333333335,4
+H0255,Canyon Synthetic Medical Center 255,Tier 3,ID,West,411,15100842.33,36741.70883211679,9
+H0144,Pinecrest Synthetic Medical Center 144,Tier 3,ID,West,332,14772041.01,44494.09942771084,8
+H0197,Oak Harbor Synthetic Medical Center 197,Tier 3,AR,South,348,14097156.51,40509.07043103448,3
+H0135,Oak Harbor Synthetic Medical Center 135,Tier 3,AL,South,398,13613305.34,34204.284773869345,9
+H0086,Silverline Synthetic Medical Center 086,Tier 3,WY,West,325,12509682.46,38491.33064615385,9

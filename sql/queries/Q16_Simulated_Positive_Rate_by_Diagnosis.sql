@@ -1,0 +1,1 @@
+SELECT DiagnosisCode,COUNT(*) AS claims,SUM(IsFraud) AS generated_positive_rows,ROUND(100.0*AVG(IsFraud),2) AS generated_positive_rate_pct FROM claims GROUP BY DiagnosisCode ORDER BY generated_positive_rate_pct DESC;

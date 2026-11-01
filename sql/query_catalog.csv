@@ -1,0 +1,41 @@
+Question_ID,Question,Rows_Returned,Status,SQL_File
+Q01,Executive Portfolio Snapshot,1,PASS,sql/queries/Q01_Executive_Portfolio_Snapshot.sql
+Q02,Monthly Claims and Billing,37,PASS,sql/queries/Q02_Monthly_Claims_and_Billing.sql
+Q03,Annual Claims and Billing,4,PASS,sql/queries/Q03_Annual_Claims_and_Billing.sql
+Q04,Diagnosis Mix,16,PASS,sql/queries/Q04_Diagnosis_Mix.sql
+Q05,Diagnosis Billing Benchmark,16,PASS,sql/queries/Q05_Diagnosis_Billing_Benchmark.sql
+Q06,Hospital Tier Benchmark,3,PASS,sql/queries/Q06_Hospital_Tier_Benchmark.sql
+Q07,Top Hospitals by Claims,25,PASS,sql/queries/Q07_Top_Hospitals_by_Claims.sql
+Q08,Hospital Region Spend,4,PASS,sql/queries/Q08_Hospital_Region_Spend.sql
+Q09,Patient Age Band Utilization,4,PASS,sql/queries/Q09_Patient_Age_Band_Utilization.sql
+Q10,Patient Claim Frequency,5,PASS,sql/queries/Q10_Patient_Claim_Frequency.sql
+Q11,Largest Individual Bills,50,PASS,sql/queries/Q11_Largest_Individual_Bills.sql
+Q12,Length of Stay Distribution,5,PASS,sql/queries/Q12_Length_of_Stay_Distribution.sql
+Q13,Cost Per Day Outlier Screen,100,PASS,sql/queries/Q13_Cost_Per_Day_Outlier_Screen.sql
+Q14,Duplicate Business Key Groups,250,PASS,sql/queries/Q14_Duplicate_Business_Key_Groups.sql
+Q15,Billing Above Diagnosis Average,250,PASS,sql/queries/Q15_Billing_Above_Diagnosis_Average.sql
+Q16,Simulated Positive Rate by Diagnosis,16,PASS,sql/queries/Q16_Simulated_Positive_Rate_by_Diagnosis.sql
+Q17,Generated Positive Rate by Hospital Tier,3,PASS,sql/queries/Q17_Generated_Positive_Rate_by_Hospital_Tier.sql
+Q18,Generated Positive Label Billed Exposure,1,PASS,sql/queries/Q18_Generated_Positive_Label_Billed_Exposure.sql
+Q19,Diagnosis Share of Total Spend,16,PASS,sql/queries/Q19_Diagnosis_Share_of_Total_Spend.sql
+Q20,Gender and Claim Profile,3,PASS,sql/queries/Q20_Gender_and_Claim_Profile.sql
+Q21,Admission Type and Emergency Profile,3,PASS,sql/queries/Q21_Admission_Type_and_Emergency_Profile.sql
+Q22,Hospital State Claims and Spend,50,PASS,sql/queries/Q22_Hospital_State_Claims_and_Spend.sql
+Q23,Quarterly Claims and Billing,13,PASS,sql/queries/Q23_Quarterly_Claims_and_Billing.sql
+Q24,Duplicate Key Groups by Hospital,50,PASS,sql/queries/Q24_Duplicate_Key_Groups_by_Hospital.sql
+Q25,High Utilization Patients,100,PASS,sql/queries/Q25_High_Utilization_Patients.sql
+Q26,Hospital Diagnosis Billing Cells,200,PASS,sql/queries/Q26_Hospital_Diagnosis_Billing_Cells.sql
+Q27,Hospital Concentration,1,PASS,sql/queries/Q27_Hospital_Concentration.sql
+Q28,Repeat Patient Diagnosis Within 30 Days,1,PASS,sql/queries/Q28_Repeat_Patient_Diagnosis_Within_30_Days.sql
+Q29,Average Bill by LOS Band,5,PASS,sql/queries/Q29_Average_Bill_by_LOS_Band.sql
+Q30,Billed Amount Bands,6,PASS,sql/queries/Q30_Billed_Amount_Bands.sql
+Q31,Secondary Diagnosis Coverage,2,PASS,sql/queries/Q31_Secondary_Diagnosis_Coverage.sql
+Q32,Risk Band Summary,4,PASS,sql/queries/Q32_Risk_Band_Summary.sql
+Q33,High Risk Exposure by Hospital Tier,3,PASS,sql/queries/Q33_High_Risk_Exposure_by_Hospital_Tier.sql
+Q34,Risk Score vs Generated Label,4,PASS,sql/queries/Q34_Risk_Score_vs_Generated_Label.sql
+Q35,Highest Anomaly Score Claims,100,PASS,sql/queries/Q35_Highest_Anomaly_Score_Claims.sql
+Q36,Anomaly Risk Disagreement,100,PASS,sql/queries/Q36_Anomaly_Risk_Disagreement.sql
+Q37,Top Risk Claims,100,PASS,sql/queries/Q37_Top_Risk_Claims.sql
+Q38,Risk Score by Diagnosis,16,PASS,sql/queries/Q38_Risk_Score_by_Diagnosis.sql
+Q39,Risk and Anomaly Cross Tab,6,PASS,sql/queries/Q39_Risk_and_Anomaly_Cross_Tab.sql
+Q40,High Risk Claims by Month,37,PASS,sql/queries/Q40_High_Risk_Claims_by_Month.sql

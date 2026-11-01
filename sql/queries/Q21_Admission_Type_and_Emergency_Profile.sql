@@ -1,0 +1,1 @@
+SELECT AdmissionType,IsEmergency,COUNT(*) AS claims,ROUND(AVG(LengthOfStay),2) AS avg_los,ROUND(AVG(BilledAmount),2) AS avg_bill_usd FROM claims GROUP BY AdmissionType,IsEmergency ORDER BY claims DESC;

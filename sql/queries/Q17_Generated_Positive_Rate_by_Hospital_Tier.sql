@@ -1,0 +1,1 @@
+SELECT h.Tier,COUNT(*) AS claims,SUM(c.IsFraud) AS generated_positive_rows,ROUND(100.0*AVG(c.IsFraud),2) AS generated_positive_rate_pct FROM claims c JOIN hospitals h USING(HospitalID) GROUP BY h.Tier;

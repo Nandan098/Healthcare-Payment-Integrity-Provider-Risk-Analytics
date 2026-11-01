@@ -1,0 +1,1 @@
+SELECT DiagnosisCode,ROUND(SUM(BilledAmount),2) AS billed_usd,ROUND(100.0*SUM(BilledAmount)/(SELECT SUM(BilledAmount) FROM claims),2) AS spend_share_pct FROM claims GROUP BY DiagnosisCode ORDER BY billed_usd DESC;

@@ -1,0 +1,1 @@
+SELECT h.Hospital_Name,h.Tier,h.State,COUNT(*) AS claims,ROUND(SUM(c.BilledAmount),2) AS total_billed_usd FROM claims c JOIN hospitals h USING(HospitalID) GROUP BY h.HospitalID ORDER BY claims DESC LIMIT 25;

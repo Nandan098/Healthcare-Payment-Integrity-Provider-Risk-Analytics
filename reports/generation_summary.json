@@ -1,0 +1,16 @@
+{
+  "seed":20261030,
+  "claims":500000,
+  "base_claims":496000,
+  "duplicate_copy_rows":2000,
+  "short_gap_repeat_rows":2000,
+  "overcharge_injected_base_rows":4464,
+  "background_positive_rows":1091,
+  "positive_claim_rows":11555,
+  "positive_rate":0.02311,
+  "patients":150000,
+  "hospitals":600,
+  "date_min":"2023-01-01",
+  "date_max":"2026-01-12",
+  "disclaimer":"All records and scenario labels are synthetic; not real healthcare data or observed fraud."
+}

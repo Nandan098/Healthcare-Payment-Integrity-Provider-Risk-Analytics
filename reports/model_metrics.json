@@ -1,0 +1,34 @@
+{
+  "dataset_claims": 500000,
+  "train_rows": 400194,
+  "test_rows": 99806,
+  "train_positive_rate": 0.023163765573696756,
+  "test_positive_rate": 0.022894415165420918,
+  "threshold_0_50": {
+    "precision": 0.5855434217368695,
+    "recall": 0.49277899343544856,
+    "f1": 0.535171102661597,
+    "accuracy": 0.9804019798408913,
+    "confusion_matrix": [
+      [
+        96724,
+        797
+      ],
+      [
+        1159,
+        1126
+      ]
+    ]
+  },
+  "roc_auc": 0.8436697054780121,
+  "average_precision_pr_auc": 0.5395779503266664,
+  "threshold_0_85": {
+    "precision": 0.9902557856272838,
+    "recall": 0.3557986870897155,
+    "flagged_claims": 821,
+    "billed_exposure_usd": 47732076.39
+  },
+  "evaluation_design": "Single 80/20 GroupShuffleSplit by PatientID. Diagnosis and hospital-diagnosis median benchmarks are derived from training patients only.",
+  "model": "LightGBM binary classifier; positive class given moderate scale_pos_weight to account for imbalance.",
+  "target_caveat": "IsFraud is a generated scenario label, not a verified fraud outcome. Metrics measure recovery of generator-created patterns only."
+}

@@ -1,0 +1,16 @@
+check,passed,observed,expected
+claims_row_count,True,500000,500000
+patient_id_unique,True,150000,150000
+hospital_id_unique,True,600,600
+claim_id_unique,True,500000,500000
+patient_foreign_keys_valid,True,0,0
+hospital_foreign_keys_valid,True,0,0
+billed_amount_positive,True,1180.16,>0
+length_of_stay_positive,True,1,>0
+fraud_target_binary,True,"[0, 1]","[0,1]"
+admission_dates_parse,True,0,0
+discharge_on_or_after_admission,True,0,0
+all_claims_have_patient,True,0,0
+all_claims_have_hospital,True,0,0
+non_uniform_diagnosis_mix,True,0.0274,>0.005
+non_uniform_hospital_use,True,0.000675,>0.00001

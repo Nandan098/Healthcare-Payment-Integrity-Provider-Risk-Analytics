@@ -1,0 +1,1 @@
+SELECT c.ClaimID,c.HospitalID,c.DiagnosisCode,c.BilledAmount,s.RiskScore,s.AnomalyScore,s.PotentialBilledExposure_085 FROM claims c JOIN claim_scores s USING(ClaimID) ORDER BY s.RiskScore DESC,c.BilledAmount DESC LIMIT 100;

@@ -1,0 +1,1 @@
+SELECT RiskBand,COUNT(*) AS claims,ROUND(AVG(RiskScore),4) AS avg_risk_score,ROUND(SUM(PotentialBilledExposure_085),2) AS flagged_billed_exposure_usd FROM claim_scores GROUP BY RiskBand ORDER BY avg_risk_score DESC;

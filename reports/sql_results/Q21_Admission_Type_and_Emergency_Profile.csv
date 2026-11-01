@@ -1,0 +1,4 @@
+AdmissionType,IsEmergency,claims,avg_los,avg_bill_usd
+Elective,0,230365,4.21,45018.49
+Emergency,1,180254,5.66,79307.78
+Urgent,0,89381,4.2,44983.61

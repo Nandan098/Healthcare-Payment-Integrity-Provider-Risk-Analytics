@@ -1,0 +1,5 @@
+risk_band,claims,generated_positive_rows,generated_positive_rate_pct
+Low,476537,3829,0.804
+Moderate,13564,1401,10.329
+Elevated,5760,2210,38.368
+High,4139,4115,99.42

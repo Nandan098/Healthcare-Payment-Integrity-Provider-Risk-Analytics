@@ -1,0 +1,1 @@
+WITH x AS (SELECT PatientID,COUNT(*) AS n_claims FROM claims GROUP BY PatientID) SELECT CASE WHEN n_claims=1 THEN '1' WHEN n_claims<=3 THEN '2-3' WHEN n_claims<=6 THEN '4-6' WHEN n_claims<=12 THEN '7-12' ELSE '13+' END AS frequency_band,COUNT(*) AS patients FROM x GROUP BY frequency_band ORDER BY MIN(n_claims);

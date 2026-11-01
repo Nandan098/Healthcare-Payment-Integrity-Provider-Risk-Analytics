@@ -1,0 +1,1 @@
+WITH h AS (SELECT HospitalID,SUM(BilledAmount) spend FROM claims GROUP BY HospitalID) SELECT COUNT(*) AS facilities,ROUND(MAX(spend),2) AS largest_hospital_spend,ROUND(100.0*MAX(spend)/(SELECT SUM(BilledAmount) FROM claims),2) AS largest_hospital_spend_share_pct FROM h;

@@ -1,0 +1,1 @@
+WITH x AS (SELECT PatientID,DiagnosisCode,AdmissionDate,LAG(AdmissionDate) OVER(PARTITION BY PatientID,DiagnosisCode ORDER BY AdmissionDate) AS prior_date FROM claims) SELECT COUNT(*) AS repeat_episode_rows FROM x WHERE prior_date IS NOT NULL AND julianday(AdmissionDate)-julianday(prior_date)<=30;

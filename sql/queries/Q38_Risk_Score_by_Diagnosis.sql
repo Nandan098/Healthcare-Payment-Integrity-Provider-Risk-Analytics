@@ -1,0 +1,1 @@
+SELECT c.DiagnosisCode,COUNT(*) claims,ROUND(AVG(s.RiskScore),4) avg_risk_score,SUM(CASE WHEN s.RiskScore>=.85 THEN 1 ELSE 0 END) high_risk_claims,ROUND(SUM(s.PotentialBilledExposure_085),2) potential_billed_exposure_usd FROM claims c JOIN claim_scores s USING(ClaimID) GROUP BY c.DiagnosisCode ORDER BY avg_risk_score DESC;

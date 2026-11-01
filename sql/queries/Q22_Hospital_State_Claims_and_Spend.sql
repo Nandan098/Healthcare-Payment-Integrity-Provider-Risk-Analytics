@@ -1,0 +1,1 @@
+SELECT h.State,COUNT(*) AS claims,ROUND(SUM(c.BilledAmount),2) AS billed_usd,ROUND(AVG(c.BilledAmount),2) AS avg_bill_usd FROM claims c JOIN hospitals h USING(HospitalID) GROUP BY h.State ORDER BY billed_usd DESC;

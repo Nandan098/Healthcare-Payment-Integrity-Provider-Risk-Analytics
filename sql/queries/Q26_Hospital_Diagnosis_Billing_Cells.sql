@@ -1,0 +1,1 @@
+SELECT h.Hospital_Name,h.Tier,c.DiagnosisCode,COUNT(*) AS claims,ROUND(AVG(c.BilledAmount),2) AS avg_bill_usd FROM claims c JOIN hospitals h USING(HospitalID) GROUP BY h.HospitalID,c.DiagnosisCode HAVING COUNT(*)>=20 ORDER BY avg_bill_usd DESC LIMIT 200;

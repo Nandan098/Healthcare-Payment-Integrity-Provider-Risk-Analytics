@@ -1,0 +1,7 @@
+risk_group,anomaly_group,claims
+Below .50 risk,Other anomaly range,480987
+Below .50 risk,Top 2% anomaly,9114
+Elevated risk,Other anomaly range,4960
+Elevated risk,Top 2% anomaly,800
+High risk,Other anomaly range,4052
+High risk,Top 2% anomaly,87

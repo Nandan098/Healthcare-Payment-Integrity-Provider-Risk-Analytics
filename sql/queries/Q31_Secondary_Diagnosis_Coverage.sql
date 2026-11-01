@@ -1,0 +1,1 @@
+SELECT CASE WHEN SecondaryDiagnosisCode IS NULL OR SecondaryDiagnosisCode='' THEN 'Missing/None' ELSE 'Present' END AS secondary_diagnosis_status,COUNT(*) claims,ROUND(100.0*COUNT(*)/(SELECT COUNT(*) FROM claims),2) share_pct FROM claims GROUP BY secondary_diagnosis_status;

@@ -1,0 +1,1 @@
+SELECT PatientID,HospitalID,AdmissionDate,DiagnosisCode,COUNT(*) AS group_rows,ROUND(SUM(BilledAmount),2) AS group_billed_usd FROM claims GROUP BY PatientID,HospitalID,AdmissionDate,DiagnosisCode HAVING COUNT(*)>1 ORDER BY group_rows DESC,group_billed_usd DESC LIMIT 250;

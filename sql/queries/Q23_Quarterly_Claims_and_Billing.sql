@@ -1,0 +1,1 @@
+SELECT strftime('%Y',AdmissionDate)||'-Q'||((CAST(strftime('%m',AdmissionDate) AS INTEGER)+2)/3) AS quarter,COUNT(*) AS claims,ROUND(SUM(BilledAmount),2) AS billed_usd FROM claims GROUP BY quarter ORDER BY quarter;

@@ -1,0 +1,178 @@
+{
+  "claims": 500000,
+  "patients": 150000,
+  "hospitals": 600,
+  "positive_claims": 11555,
+  "positive_rate": 0.02311,
+  "total_billed_usd": 28686909594.97,
+  "average_billed_usd": 57373.819189940004,
+  "median_billed_usd": 31580.0,
+  "p95_billed_usd": 195869.446,
+  "p99_billed_usd": 380614.81360000034,
+  "duplicate_business_key_groups": 2003,
+  "date_min": "2023-01-01",
+  "date_max": "2026-01-12",
+  "checks_passed": 15,
+  "checks_total": 15,
+  "all_checks_passed": true,
+  "top_diagnoses_by_spend": [
+    {
+      "DiagnosisCode": "C18.9",
+      "Claims": 12321,
+      "TotalBilled_USD": 3250026489.12,
+      "AverageBilled_USD": 263779.44072072074,
+      "MedianBilled_USD": 219161.31,
+      "GeneratedPositiveRows": 275,
+      "SpendSharePct": 11.32930153511504
+    },
+    {
+      "DiagnosisCode": "S72.001A",
+      "Claims": 23431,
+      "TotalBilled_USD": 3097559405.17,
+      "AverageBilled_USD": 132199.1978647945,
+      "MedianBilled_USD": 109323.4,
+      "GeneratedPositiveRows": 600,
+      "SpendSharePct": 10.797814922919162
+    },
+    {
+      "DiagnosisCode": "A41.9",
+      "Claims": 14149,
+      "TotalBilled_USD": 2987517307.75,
+      "AverageBilled_USD": 211146.88725351615,
+      "MedianBilled_USD": 174397.96,
+      "GeneratedPositiveRows": 290,
+      "SpendSharePct": 10.414218017662785
+    },
+    {
+      "DiagnosisCode": "I50.9",
+      "Claims": 41563,
+      "TotalBilled_USD": 2865609730.9,
+      "AverageBilled_USD": 68946.17161658205,
+      "MedianBilled_USD": 57610.46,
+      "GeneratedPositiveRows": 949,
+      "SpendSharePct": 9.989259112813112
+    },
+    {
+      "DiagnosisCode": "I63.9",
+      "Claims": 15768,
+      "TotalBilled_USD": 2442596706.18,
+      "AverageBilled_USD": 154908.46690639268,
+      "MedianBilled_USD": 128757.53,
+      "GeneratedPositiveRows": 347,
+      "SpendSharePct": 8.514673559009953
+    }
+  ],
+  "hospital_tier_summary": [
+    {
+      "Tier": "Tier 1",
+      "Claims": 108117,
+      "TotalBilled_USD": 8905265867.07,
+      "AverageBilled_USD": 82366.93459002746,
+      "GeneratedPositiveRows": 2541
+    },
+    {
+      "Tier": "Tier 2",
+      "Claims": 143350,
+      "TotalBilled_USD": 8639086010.24,
+      "AverageBilled_USD": 60265.685456853855,
+      "GeneratedPositiveRows": 3266
+    },
+    {
+      "Tier": "Tier 3",
+      "Claims": 248533,
+      "TotalBilled_USD": 11142557717.66,
+      "AverageBilled_USD": 44833.31274985616,
+      "GeneratedPositiveRows": 5748
+    }
+  ],
+  "region_summary": [
+    {
+      "Region": "Midwest",
+      "Claims": 104664,
+      "TotalBilled_USD": 5870238721.86,
+      "AverageBilled_USD": 56086.51228559963
+    },
+    {
+      "Region": "Northeast",
+      "Claims": 93158,
+      "TotalBilled_USD": 5891084110.84,
+      "AverageBilled_USD": 63237.554593701025
+    },
+    {
+      "Region": "South",
+      "Claims": 192048,
+      "TotalBilled_USD": 10388689673.65,
+      "AverageBilled_USD": 54094.23515813755
+    },
+    {
+      "Region": "West",
+      "Claims": 110130,
+      "TotalBilled_USD": 6536897088.62,
+      "AverageBilled_USD": 59356.18894597294
+    }
+  ],
+  "risk_band_summary": [
+    {
+      "RiskBand": "Elevated",
+      "Claims": 5760,
+      "AverageRiskScore": 0.6471051994087449,
+      "BilledAmount_USD": 492949854.77,
+      "PotentialBilledExposure_USD": 0.0
+    },
+    {
+      "RiskBand": "High",
+      "Claims": 4139,
+      "AverageRiskScore": 0.9953988397216751,
+      "BilledAmount_USD": 242375793.66,
+      "PotentialBilledExposure_USD": 242375793.66
+    },
+    {
+      "RiskBand": "Low",
+      "Claims": 476537,
+      "AverageRiskScore": 0.044759136558786335,
+      "BilledAmount_USD": 26234294800.74,
+      "PotentialBilledExposure_USD": 0.0
+    },
+    {
+      "RiskBand": "Moderate",
+      "Claims": 13564,
+      "AverageRiskScore": 0.31348789020944445,
+      "BilledAmount_USD": 1717289145.8,
+      "PotentialBilledExposure_USD": 0.0
+    }
+  ],
+  "model_metrics": {
+    "dataset_claims": 500000,
+    "train_rows": 400194,
+    "test_rows": 99806,
+    "train_positive_rate": 0.023163765573696756,
+    "test_positive_rate": 0.022894415165420918,
+    "threshold_0_50": {
+      "precision": 0.5855434217368695,
+      "recall": 0.49277899343544856,
+      "f1": 0.535171102661597,
+      "accuracy": 0.9804019798408913,
+      "confusion_matrix": [
+        [
+          96724,
+          797
+        ],
+        [
+          1159,
+          1126
+        ]
+      ]
+    },
+    "roc_auc": 0.8436697054780121,
+    "average_precision_pr_auc": 0.5395779503266664,
+    "threshold_0_85": {
+      "precision": 0.9902557856272838,
+      "recall": 0.3557986870897155,
+      "flagged_claims": 821,
+      "billed_exposure_usd": 47732076.39
+    },
+    "evaluation_design": "Single 80/20 GroupShuffleSplit by PatientID. Diagnosis and hospital-diagnosis median benchmarks are derived from training patients only.",
+    "model": "LightGBM binary classifier; positive class given moderate scale_pos_weight to account for imbalance.",
+    "target_caveat": "IsFraud is a generated scenario label, not a verified fraud outcome. Metrics measure recovery of generator-created patterns only."
+  }
+}

@@ -1,0 +1,1 @@
+SELECT h.Tier, COUNT(*) AS claims, ROUND(AVG(c.BilledAmount),2) AS avg_bill_usd, ROUND(SUM(c.BilledAmount),2) AS total_billed_usd FROM claims c JOIN hospitals h USING(HospitalID) GROUP BY h.Tier ORDER BY avg_bill_usd DESC;

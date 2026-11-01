@@ -1,0 +1,201 @@
+Hospital_Name,Tier,DiagnosisCode,claims,avg_bill_usd
+Meadowbrook Synthetic Medical Center 387,Tier 1,C18.9,52,435828.27
+Maple Synthetic Medical Center 092,Tier 2,C18.9,27,414126.86
+Pinecrest Synthetic Medical Center 446,Tier 1,C18.9,57,410166.08
+Summit Synthetic Medical Center 372,Tier 1,C18.9,75,392625.37
+Blue Ridge Synthetic Medical Center 568,Tier 2,C18.9,29,390453.4
+Riverside Synthetic Medical Center 485,Tier 1,C18.9,58,383115.64
+Summit Synthetic Medical Center 297,Tier 1,C18.9,61,367184.29
+Maple Synthetic Medical Center 518,Tier 1,C18.9,65,363385.62
+Evergreen Synthetic Medical Center 325,Tier 1,C18.9,38,360210.56
+Lakeside Synthetic Medical Center 584,Tier 1,C18.9,59,360106.35
+Cedar Valley Synthetic Medical Center 308,Tier 1,C18.9,44,359341.83
+Redwood Synthetic Medical Center 398,Tier 2,C18.9,30,354121.97
+Riverside Synthetic Medical Center 544,Tier 2,C18.9,22,350420.55
+Cedar Valley Synthetic Medical Center 452,Tier 1,C18.9,72,348031.8
+Silverline Synthetic Medical Center 532,Tier 1,C18.9,62,347770.13
+Lakeside Synthetic Medical Center 290,Tier 2,C18.9,25,346711.78
+Summit Synthetic Medical Center 372,Tier 1,A41.9,108,346552.46
+Cedar Valley Synthetic Medical Center 268,Tier 1,C18.9,70,343846.81
+Meadowbrook Synthetic Medical Center 109,Tier 1,C18.9,47,343642.21
+Silverline Synthetic Medical Center 177,Tier 2,C18.9,35,340798.44
+Fairview Synthetic Medical Center 087,Tier 1,C18.9,33,338190.28
+Northstar Synthetic Medical Center 551,Tier 1,C18.9,59,333276.83
+Silverline Synthetic Medical Center 305,Tier 2,C18.9,38,332782.13
+Oak Harbor Synthetic Medical Center 237,Tier 2,C18.9,22,331289.9
+Riverside Synthetic Medical Center 443,Tier 1,C18.9,64,329588.38
+Silverline Synthetic Medical Center 572,Tier 1,C18.9,51,328713.06
+Riverside Synthetic Medical Center 355,Tier 1,C18.9,43,326125.7
+Pinecrest Synthetic Medical Center 014,Tier 1,C18.9,33,325846.85
+Canyon Synthetic Medical Center 239,Tier 2,C18.9,33,325323.41
+Canyon Synthetic Medical Center 277,Tier 3,C18.9,21,323654.0
+Riverside Synthetic Medical Center 307,Tier 2,C18.9,21,323451.84
+Meadowbrook Synthetic Medical Center 496,Tier 2,C18.9,22,323077.09
+Fairview Synthetic Medical Center 235,Tier 2,C18.9,20,322977.05
+Summit Synthetic Medical Center 565,Tier 2,C18.9,23,321983.73
+Cedar Valley Synthetic Medical Center 035,Tier 2,C18.9,20,321028.66
+Blue Ridge Synthetic Medical Center 493,Tier 1,C18.9,58,320915.82
+Cedar Valley Synthetic Medical Center 452,Tier 1,A41.9,63,316938.22
+Blue Ridge Synthetic Medical Center 549,Tier 1,C18.9,39,316447.33
+Meadowbrook Synthetic Medical Center 461,Tier 1,C18.9,33,315922.91
+Northstar Synthetic Medical Center 395,Tier 2,C18.9,20,315200.56
+Cedar Valley Synthetic Medical Center 369,Tier 1,C18.9,29,314916.63
+Riverside Synthetic Medical Center 390,Tier 1,C18.9,42,314690.55
+Silverline Synthetic Medical Center 193,Tier 2,C18.9,22,314122.95
+Evergreen Synthetic Medical Center 105,Tier 1,C18.9,51,313632.89
+Meadowbrook Synthetic Medical Center 399,Tier 2,C18.9,29,312952.93
+Riverside Synthetic Medical Center 450,Tier 1,C18.9,40,312226.16
+Evergreen Synthetic Medical Center 182,Tier 2,C18.9,25,310779.51
+Fairview Synthetic Medical Center 106,Tier 1,C18.9,47,310774.26
+Riverside Synthetic Medical Center 291,Tier 1,C18.9,35,308358.91
+Canyon Synthetic Medical Center 515,Tier 1,C18.9,77,307616.99
+Cedar Valley Synthetic Medical Center 308,Tier 1,A41.9,47,306757.64
+Canyon Synthetic Medical Center 561,Tier 2,C18.9,29,306602.96
+Pinecrest Synthetic Medical Center 498,Tier 2,C18.9,23,305571.08
+Oak Harbor Synthetic Medical Center 083,Tier 1,C18.9,58,304605.52
+Fairview Synthetic Medical Center 106,Tier 1,A41.9,42,303220.51
+Meadowbrook Synthetic Medical Center 175,Tier 1,C18.9,69,302094.8
+Fairview Synthetic Medical Center 085,Tier 2,C18.9,24,301650.13
+Lakeside Synthetic Medical Center 463,Tier 1,C18.9,47,301609.56
+Blue Ridge Synthetic Medical Center 055,Tier 2,C18.9,37,301031.63
+Northstar Synthetic Medical Center 070,Tier 3,C18.9,28,300517.29
+Redwood Synthetic Medical Center 112,Tier 3,C18.9,22,300146.02
+Silverline Synthetic Medical Center 358,Tier 1,C18.9,32,300043.15
+Meadowbrook Synthetic Medical Center 387,Tier 1,A41.9,71,299741.46
+Meadowbrook Synthetic Medical Center 343,Tier 1,C18.9,68,299587.12
+Silverline Synthetic Medical Center 522,Tier 1,C18.9,40,299149.18
+Northstar Synthetic Medical Center 207,Tier 1,C18.9,67,298810.72
+Evergreen Synthetic Medical Center 278,Tier 1,C18.9,35,297862.55
+Maple Synthetic Medical Center 518,Tier 1,A41.9,78,297657.0
+Lakeside Synthetic Medical Center 584,Tier 1,A41.9,79,296894.53
+Northstar Synthetic Medical Center 366,Tier 3,C18.9,21,296224.92
+Blue Ridge Synthetic Medical Center 073,Tier 1,C18.9,77,295931.92
+Cedar Valley Synthetic Medical Center 238,Tier 1,C18.9,41,295358.28
+Pinecrest Synthetic Medical Center 014,Tier 1,A41.9,29,295278.27
+Blue Ridge Synthetic Medical Center 354,Tier 2,C18.9,21,294979.58
+Pinecrest Synthetic Medical Center 004,Tier 2,C18.9,29,293661.69
+Northstar Synthetic Medical Center 298,Tier 1,C18.9,70,293391.19
+Evergreen Synthetic Medical Center 325,Tier 1,A41.9,57,293229.08
+Redwood Synthetic Medical Center 338,Tier 1,C18.9,56,293105.68
+Riverside Synthetic Medical Center 134,Tier 1,C18.9,59,292737.8
+Oak Harbor Synthetic Medical Center 046,Tier 1,C18.9,73,292694.47
+Fairview Synthetic Medical Center 304,Tier 2,C18.9,27,292028.01
+Redwood Synthetic Medical Center 566,Tier 2,C18.9,20,291724.8
+Meadowbrook Synthetic Medical Center 043,Tier 1,C18.9,25,291307.79
+Riverside Synthetic Medical Center 210,Tier 2,C18.9,20,291111.93
+Riverside Synthetic Medical Center 485,Tier 1,A41.9,65,290749.57
+Pinecrest Synthetic Medical Center 104,Tier 1,C18.9,64,288854.65
+Pinecrest Synthetic Medical Center 262,Tier 2,C18.9,21,288473.46
+Blue Ridge Synthetic Medical Center 549,Tier 1,A41.9,45,288458.51
+Silverline Synthetic Medical Center 193,Tier 2,A41.9,34,287885.65
+Fairview Synthetic Medical Center 507,Tier 2,C18.9,27,287628.13
+Riverside Synthetic Medical Center 422,Tier 2,C18.9,23,286748.2
+Meadowbrook Synthetic Medical Center 346,Tier 3,A41.9,23,286444.28
+Lakeside Synthetic Medical Center 230,Tier 2,C18.9,31,286104.0
+Blue Ridge Synthetic Medical Center 425,Tier 1,C18.9,56,285969.65
+Northstar Synthetic Medical Center 227,Tier 1,C18.9,45,285862.01
+Oak Harbor Synthetic Medical Center 570,Tier 2,C18.9,29,285509.93
+Blue Ridge Synthetic Medical Center 170,Tier 1,C18.9,52,285202.83
+Evergreen Synthetic Medical Center 370,Tier 2,A41.9,20,285080.7
+Oak Harbor Synthetic Medical Center 083,Tier 1,A41.9,74,284858.44
+Meadowbrook Synthetic Medical Center 157,Tier 1,C18.9,73,284521.42
+Fairview Synthetic Medical Center 243,Tier 2,C18.9,29,284259.63
+Pinecrest Synthetic Medical Center 289,Tier 1,C18.9,77,284067.48
+Summit Synthetic Medical Center 297,Tier 1,A41.9,60,283035.73
+Pinecrest Synthetic Medical Center 066,Tier 2,C18.9,20,283005.19
+Lakeside Synthetic Medical Center 054,Tier 3,C18.9,21,282708.44
+Canyon Synthetic Medical Center 002,Tier 1,C18.9,61,281646.65
+Cedar Valley Synthetic Medical Center 441,Tier 2,C18.9,24,281456.67
+Silverline Synthetic Medical Center 122,Tier 2,C18.9,29,280942.66
+Redwood Synthetic Medical Center 058,Tier 1,C18.9,51,280804.14
+Pinecrest Synthetic Medical Center 446,Tier 1,A41.9,57,280798.1
+Canyon Synthetic Medical Center 515,Tier 1,A41.9,91,280678.41
+Cedar Valley Synthetic Medical Center 268,Tier 1,A41.9,51,280604.94
+Evergreen Synthetic Medical Center 523,Tier 1,C18.9,71,279859.77
+Fairview Synthetic Medical Center 264,Tier 1,C18.9,40,279806.46
+Pinecrest Synthetic Medical Center 381,Tier 1,A41.9,43,279763.19
+Lakeside Synthetic Medical Center 589,Tier 2,A41.9,26,279256.6
+Evergreen Synthetic Medical Center 143,Tier 1,C18.9,81,278513.53
+Silverline Synthetic Medical Center 320,Tier 1,C18.9,43,278153.69
+Maple Synthetic Medical Center 309,Tier 2,C18.9,20,277076.46
+Fairview Synthetic Medical Center 251,Tier 1,C18.9,26,276735.12
+Cedar Valley Synthetic Medical Center 050,Tier 1,C18.9,49,276041.88
+Northstar Synthetic Medical Center 067,Tier 2,C18.9,29,275212.84
+Pinecrest Synthetic Medical Center 578,Tier 2,C18.9,23,274783.97
+Maple Synthetic Medical Center 225,Tier 2,C18.9,35,274181.07
+Pinecrest Synthetic Medical Center 537,Tier 2,C18.9,28,273962.5
+Fairview Synthetic Medical Center 072,Tier 1,C18.9,52,273082.14
+Canyon Synthetic Medical Center 536,Tier 1,C18.9,47,272923.92
+Summit Synthetic Medical Center 477,Tier 3,C18.9,22,271389.21
+Canyon Synthetic Medical Center 254,Tier 2,C18.9,25,271378.72
+Canyon Synthetic Medical Center 042,Tier 3,C18.9,30,270338.21
+Pinecrest Synthetic Medical Center 014,Tier 1,I63.9,43,270298.77
+Redwood Synthetic Medical Center 025,Tier 2,A41.9,22,269674.73
+Cedar Valley Synthetic Medical Center 102,Tier 2,C18.9,21,269458.35
+Blue Ridge Synthetic Medical Center 170,Tier 1,A41.9,61,269211.36
+Silverline Synthetic Medical Center 363,Tier 2,C18.9,24,268942.87
+Silverline Synthetic Medical Center 572,Tier 1,A41.9,55,268832.56
+Pinecrest Synthetic Medical Center 578,Tier 2,A41.9,30,268613.97
+Oak Harbor Synthetic Medical Center 315,Tier 2,C18.9,22,268320.08
+Silverline Synthetic Medical Center 090,Tier 1,C18.9,41,267954.77
+Northstar Synthetic Medical Center 207,Tier 1,A41.9,74,267827.09
+Fairview Synthetic Medical Center 028,Tier 3,C18.9,20,267672.25
+Oak Harbor Synthetic Medical Center 436,Tier 1,C18.9,54,267557.81
+Lakeside Synthetic Medical Center 420,Tier 1,A41.9,55,267539.93
+Blue Ridge Synthetic Medical Center 480,Tier 2,C18.9,20,267454.05
+Riverside Synthetic Medical Center 183,Tier 2,C18.9,24,266925.96
+Meadowbrook Synthetic Medical Center 318,Tier 3,C18.9,20,266894.03
+Silverline Synthetic Medical Center 257,Tier 2,C18.9,27,266517.54
+Silverline Synthetic Medical Center 582,Tier 2,A41.9,20,266293.29
+Maple Synthetic Medical Center 501,Tier 2,C18.9,20,266038.92
+Blue Ridge Synthetic Medical Center 341,Tier 2,C18.9,20,265742.47
+Northstar Synthetic Medical Center 524,Tier 3,C18.9,21,265348.82
+Silverline Synthetic Medical Center 532,Tier 1,A41.9,66,264985.02
+Meadowbrook Synthetic Medical Center 113,Tier 2,C18.9,25,264906.75
+Oak Harbor Synthetic Medical Center 171,Tier 2,A41.9,22,264681.94
+Oak Harbor Synthetic Medical Center 237,Tier 2,A41.9,27,264592.31
+Meadowbrook Synthetic Medical Center 080,Tier 2,C18.9,23,263610.73
+Silverline Synthetic Medical Center 186,Tier 3,C18.9,29,263253.21
+Summit Synthetic Medical Center 198,Tier 3,C18.9,44,262711.6
+Evergreen Synthetic Medical Center 294,Tier 3,C18.9,24,262347.93
+Blue Ridge Synthetic Medical Center 310,Tier 2,C18.9,21,262281.29
+Fairview Synthetic Medical Center 072,Tier 1,A41.9,63,261753.62
+Blue Ridge Synthetic Medical Center 493,Tier 1,A41.9,75,261550.44
+Silverline Synthetic Medical Center 186,Tier 3,A41.9,28,261396.93
+Pinecrest Synthetic Medical Center 562,Tier 2,A41.9,20,261290.21
+Northstar Synthetic Medical Center 328,Tier 2,C18.9,23,260894.99
+Redwood Synthetic Medical Center 061,Tier 2,C18.9,22,260870.72
+Oak Harbor Synthetic Medical Center 084,Tier 3,C18.9,25,260432.03
+Blue Ridge Synthetic Medical Center 055,Tier 2,A41.9,41,260366.81
+Meadowbrook Synthetic Medical Center 175,Tier 1,A41.9,54,260069.99
+Meadowbrook Synthetic Medical Center 131,Tier 1,A41.9,46,260055.15
+Lakeside Synthetic Medical Center 124,Tier 3,C18.9,22,259877.08
+Pinecrest Synthetic Medical Center 104,Tier 1,A41.9,77,259208.63
+Summit Synthetic Medical Center 565,Tier 2,A41.9,32,259181.98
+Blue Ridge Synthetic Medical Center 425,Tier 1,A41.9,52,258674.01
+Blue Ridge Synthetic Medical Center 219,Tier 2,C18.9,20,258597.85
+Cedar Valley Synthetic Medical Center 050,Tier 1,A41.9,45,258290.94
+Cedar Valley Synthetic Medical Center 486,Tier 3,A41.9,21,258045.56
+Northstar Synthetic Medical Center 168,Tier 1,C18.9,49,257442.7
+Canyon Synthetic Medical Center 057,Tier 2,C18.9,36,257364.91
+Cedar Valley Synthetic Medical Center 321,Tier 2,C18.9,21,257246.03
+Riverside Synthetic Medical Center 183,Tier 2,A41.9,35,256099.98
+Meadowbrook Synthetic Medical Center 191,Tier 2,C18.9,24,255897.65
+Evergreen Synthetic Medical Center 142,Tier 1,C18.9,34,255764.97
+Canyon Synthetic Medical Center 057,Tier 2,A41.9,33,255728.18
+Cedar Valley Synthetic Medical Center 380,Tier 3,C18.9,22,255405.84
+Silverline Synthetic Medical Center 550,Tier 2,C18.9,28,255313.63
+Cedar Valley Synthetic Medical Center 369,Tier 1,A41.9,40,254597.96
+Lakeside Synthetic Medical Center 589,Tier 2,C18.9,25,254576.65
+Riverside Synthetic Medical Center 291,Tier 1,A41.9,50,253927.29
+Redwood Synthetic Medical Center 338,Tier 1,A41.9,69,253658.27
+Silverline Synthetic Medical Center 320,Tier 1,A41.9,35,253391.55
+Lakeside Synthetic Medical Center 247,Tier 1,C18.9,55,253349.78
+Silverline Synthetic Medical Center 406,Tier 2,C18.9,25,252914.05
+Northstar Synthetic Medical Center 227,Tier 1,A41.9,57,252854.37
+Evergreen Synthetic Medical Center 270,Tier 2,C18.9,21,252378.11
+Meadowbrook Synthetic Medical Center 109,Tier 1,A41.9,66,252310.11
+Riverside Synthetic Medical Center 503,Tier 2,C18.9,24,251969.21
+Lakeside Synthetic Medical Center 420,Tier 1,C18.9,60,250663.19
+Northstar Synthetic Medical Center 164,Tier 2,C18.9,27,250198.14
+Lakeside Synthetic Medical Center 078,Tier 3,A41.9,22,249849.62

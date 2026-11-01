@@ -1,0 +1,65 @@
+-- Assumes Power BI table names: Claims, ClaimScores, Patients, Hospitals
+
+Total Claims =
+DISTINCTCOUNT(Claims[ClaimID])
+
+Total Billed Amount USD =
+SUM(Claims[BilledAmount])
+
+Average Claim Amount USD =
+DIVIDE([Total Billed Amount USD], [Total Claims])
+
+Unique Patients =
+DISTINCTCOUNT(Claims[PatientID])
+
+Hospitals with Claims =
+DISTINCTCOUNT(Claims[HospitalID])
+
+Generated Positive Label Rows =
+CALCULATE(
+    DISTINCTCOUNT(Claims[ClaimID]),
+    Claims[IsFraud] = 1
+)
+
+Generated Positive Label Rate =
+DIVIDE([Generated Positive Label Rows], [Total Claims])
+
+High Risk Claims (0.85) =
+CALCULATE(
+    DISTINCTCOUNT(ClaimScores[ClaimID]),
+    ClaimScores[RiskScore] >= 0.85
+)
+
+Average Risk Score =
+AVERAGE(ClaimScores[RiskScore])
+
+High Risk Billed Exposure USD =
+CALCULATE(
+    [Total Billed Amount USD],
+    FILTER(ClaimScores, ClaimScores[RiskScore] >= 0.85)
+)
+
+Top 2 Percent Anomaly Claims =
+CALCULATE(
+    DISTINCTCOUNT(ClaimScores[ClaimID]),
+    ClaimScores[AnomalyReviewFlag] = 1
+)
+
+Average Anomaly Score =
+AVERAGE(ClaimScores[AnomalyScore])
+
+Potential Billed Exposure USD =
+SUM(ClaimScores[PotentialBilledExposure_085])
+
+Average Length of Stay =
+AVERAGE(Claims[LengthOfStay])
+
+Average Cost per Day USD =
+DIVIDE([Total Billed Amount USD], SUM(Claims[LengthOfStay]))
+
+-- The following is a configurable review band and is not a fraud decision.
+Elevated Risk Claims (0.50) =
+CALCULATE(
+    DISTINCTCOUNT(ClaimScores[ClaimID]),
+    ClaimScores[RiskScore] >= 0.50
+)

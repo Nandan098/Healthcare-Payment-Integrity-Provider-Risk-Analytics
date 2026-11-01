@@ -1,0 +1,18 @@
+{
+  "claims": 500000,
+  "patients": 150000,
+  "hospitals": 600,
+  "positive_claims": 11555,
+  "positive_rate": 0.02311,
+  "total_billed_usd": 28686909594.97,
+  "average_billed_usd": 57373.819189940004,
+  "median_billed_usd": 31580.0,
+  "p95_billed_usd": 195869.446,
+  "p99_billed_usd": 380614.81360000034,
+  "duplicate_business_key_groups": 2003,
+  "date_min": "2023-01-01",
+  "date_max": "2026-01-12",
+  "checks_passed": 15,
+  "checks_total": 15,
+  "all_checks_passed": true
+}

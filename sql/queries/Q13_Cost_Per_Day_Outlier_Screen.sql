@@ -1,0 +1,1 @@
+SELECT ClaimID,DiagnosisCode,LengthOfStay,ROUND(BilledAmount/LengthOfStay,2) AS cost_per_day_usd,BilledAmount FROM claims WHERE BilledAmount/LengthOfStay>(SELECT AVG(BilledAmount/LengthOfStay)+3.0*AVG(ABS((BilledAmount/LengthOfStay)-(SELECT AVG(BilledAmount/LengthOfStay) FROM claims))) FROM claims) ORDER BY cost_per_day_usd DESC LIMIT 100;

@@ -1,0 +1,1 @@
+SELECT DiagnosisCode, COUNT(*) AS claims, ROUND(AVG(BilledAmount),2) AS avg_bill_usd, ROUND(MIN(BilledAmount),2) AS min_bill_usd, ROUND(MAX(BilledAmount),2) AS max_bill_usd FROM claims GROUP BY DiagnosisCode ORDER BY avg_bill_usd DESC;

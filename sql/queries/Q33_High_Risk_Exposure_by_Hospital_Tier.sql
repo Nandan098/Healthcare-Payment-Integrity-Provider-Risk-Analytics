@@ -1,0 +1,1 @@
+SELECT h.Tier,COUNT(*) AS scored_claims,SUM(CASE WHEN s.RiskScore>=.85 THEN 1 ELSE 0 END) AS high_risk_claims,ROUND(SUM(s.PotentialBilledExposure_085),2) AS potential_billed_exposure_usd FROM claim_scores s JOIN claims c USING(ClaimID) JOIN hospitals h USING(HospitalID) GROUP BY h.Tier ORDER BY potential_billed_exposure_usd DESC;

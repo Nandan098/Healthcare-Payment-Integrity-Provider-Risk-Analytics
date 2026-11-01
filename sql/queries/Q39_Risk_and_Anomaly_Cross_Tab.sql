@@ -1,0 +1,1 @@
+SELECT CASE WHEN RiskScore>=.85 THEN 'High risk' WHEN RiskScore>=.5 THEN 'Elevated risk' ELSE 'Below .50 risk' END AS risk_group,CASE WHEN AnomalyScore>=.98 THEN 'Top 2% anomaly' ELSE 'Other anomaly range' END AS anomaly_group,COUNT(*) claims FROM claim_scores GROUP BY risk_group,anomaly_group ORDER BY risk_group,anomaly_group;

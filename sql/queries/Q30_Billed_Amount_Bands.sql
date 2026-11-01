@@ -1,0 +1,1 @@
+SELECT CASE WHEN BilledAmount<10000 THEN '<$10k' WHEN BilledAmount<25000 THEN '$10k-$25k' WHEN BilledAmount<50000 THEN '$25k-$50k' WHEN BilledAmount<100000 THEN '$50k-$100k' WHEN BilledAmount<250000 THEN '$100k-$250k' ELSE '$250k+' END AS billed_band,COUNT(*) claims,ROUND(SUM(BilledAmount),2) spend_usd FROM claims GROUP BY billed_band ORDER BY MIN(BilledAmount);

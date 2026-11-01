@@ -1,0 +1,1 @@
+SELECT strftime('%Y-%m',c.AdmissionDate) AS claim_month,COUNT(*) AS high_risk_claims,ROUND(SUM(c.BilledAmount),2) AS billed_exposure_usd FROM claims c JOIN claim_scores s USING(ClaimID) WHERE s.RiskScore>=.85 GROUP BY claim_month ORDER BY claim_month;

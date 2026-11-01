@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS total_claims, COUNT(DISTINCT PatientID) AS unique_patients, COUNT(DISTINCT HospitalID) AS hospitals, ROUND(SUM(BilledAmount),2) AS total_billed_usd, ROUND(AVG(BilledAmount),2) AS avg_claim_usd, ROUND(AVG(LengthOfStay),2) AS avg_los FROM claims;

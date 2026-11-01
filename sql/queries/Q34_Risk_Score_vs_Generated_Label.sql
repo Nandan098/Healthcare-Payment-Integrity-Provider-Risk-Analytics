@@ -1,0 +1,1 @@
+SELECT CASE WHEN RiskScore<.2 THEN 'Low' WHEN RiskScore<.5 THEN 'Moderate' WHEN RiskScore<.85 THEN 'Elevated' ELSE 'High' END AS risk_band,COUNT(*) claims,SUM(c.IsFraud) AS generated_positive_rows,ROUND(100.0*AVG(c.IsFraud),3) AS generated_positive_rate_pct FROM claim_scores s JOIN claims c USING(ClaimID) GROUP BY risk_band ORDER BY MIN(RiskScore);

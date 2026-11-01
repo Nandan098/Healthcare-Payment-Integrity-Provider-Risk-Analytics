@@ -1,0 +1,1 @@
+WITH d AS (SELECT HospitalID,PatientID,AdmissionDate,DiagnosisCode,COUNT(*) n FROM claims GROUP BY HospitalID,PatientID,AdmissionDate,DiagnosisCode HAVING COUNT(*)>1) SELECT h.Hospital_Name,h.Tier,COUNT(*) AS duplicate_groups,SUM(d.n) AS rows_in_duplicate_groups FROM d JOIN hospitals h USING(HospitalID) GROUP BY h.HospitalID ORDER BY duplicate_groups DESC LIMIT 50;

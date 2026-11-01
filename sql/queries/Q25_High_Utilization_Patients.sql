@@ -1,0 +1,1 @@
+SELECT c.PatientID,p.Age,p.Gender,COUNT(*) AS claims,ROUND(SUM(c.BilledAmount),2) AS total_billed_usd,COUNT(DISTINCT c.HospitalID) AS hospitals_used FROM claims c JOIN patients p USING(PatientID) GROUP BY c.PatientID ORDER BY claims DESC,total_billed_usd DESC LIMIT 100;

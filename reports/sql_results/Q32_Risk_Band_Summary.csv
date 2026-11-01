@@ -1,0 +1,5 @@
+RiskBand,claims,avg_risk_score,flagged_billed_exposure_usd
+High,4139,0.9954,242375793.66
+Elevated,5760,0.6471,0.0
+Moderate,13564,0.3135,0.0
+Low,476537,0.0448,0.0

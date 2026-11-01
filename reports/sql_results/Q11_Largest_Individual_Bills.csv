@@ -1,0 +1,51 @@
+ClaimID,BilledAmount,LengthOfStay,DiagnosisCode,Hospital_Name,Tier,State
+C0396375,2424185.67,15,A41.9,Cedar Valley Synthetic Medical Center 308,Tier 1,MN
+C0006030,2231517.58,13,C18.9,Riverside Synthetic Medical Center 485,Tier 1,MN
+C0223774,1761703.4,21,C18.9,Maple Synthetic Medical Center 092,Tier 2,NJ
+C0315006,1378261.17,19,C18.9,Oak Harbor Synthetic Medical Center 046,Tier 1,WV
+C0435263,1340905.34,11,I21.4,Silverline Synthetic Medical Center 188,Tier 3,AK
+C0101672,1323104.17,6,S72.001A,Silverline Synthetic Medical Center 193,Tier 2,CO
+C0379244,1316726.8,9,A41.9,Summit Synthetic Medical Center 455,Tier 2,VT
+C0455449,1301798.32,19,A41.9,Blue Ridge Synthetic Medical Center 167,Tier 3,AR
+C0029871,1292931.74,13,C18.9,Canyon Synthetic Medical Center 042,Tier 3,UT
+C0099252,1260708.56,21,A41.9,Silverline Synthetic Medical Center 582,Tier 2,TN
+C0014783,1250000.0,14,C18.9,Lakeside Synthetic Medical Center 584,Tier 1,WA
+C0016651,1250000.0,17,C18.9,Meadowbrook Synthetic Medical Center 387,Tier 1,MA
+C0020106,1250000.0,25,C18.9,Summit Synthetic Medical Center 297,Tier 1,WA
+C0027358,1250000.0,36,C18.9,Riverside Synthetic Medical Center 355,Tier 1,NV
+C0045058,1250000.0,15,A41.9,Cedar Valley Synthetic Medical Center 452,Tier 1,HI
+C0052721,1250000.0,27,C18.9,Summit Synthetic Medical Center 297,Tier 1,WA
+C0062093,1250000.0,23,A41.9,Meadowbrook Synthetic Medical Center 109,Tier 1,WI
+C0078464,1250000.0,8,A41.9,Oak Harbor Synthetic Medical Center 171,Tier 2,RI
+C0091915,1250000.0,21,A41.9,Silverline Synthetic Medical Center 186,Tier 3,ND
+C0110664,1250000.0,19,C18.9,Meadowbrook Synthetic Medical Center 387,Tier 1,MA
+C0127778,1250000.0,38,I63.9,Pinecrest Synthetic Medical Center 498,Tier 2,MA
+C0143199,1250000.0,25,C18.9,Fairview Synthetic Medical Center 235,Tier 2,VT
+C0159812,1250000.0,32,C18.9,Evergreen Synthetic Medical Center 182,Tier 2,IN
+C0164524,1250000.0,33,C18.9,Meadowbrook Synthetic Medical Center 109,Tier 1,WI
+C0171927,1250000.0,28,A41.9,Cedar Valley Synthetic Medical Center 452,Tier 1,HI
+C0218562,1250000.0,19,C18.9,Meadowbrook Synthetic Medical Center 175,Tier 1,MI
+C0220682,1250000.0,18,C18.9,Canyon Synthetic Medical Center 002,Tier 1,AL
+C0239902,1250000.0,15,C18.9,Northstar Synthetic Medical Center 067,Tier 2,WI
+C0244294,1250000.0,12,C18.9,Meadowbrook Synthetic Medical Center 273,Tier 3,ID
+C0252600,1250000.0,6,C18.9,Blue Ridge Synthetic Medical Center 549,Tier 1,KY
+C0277529,1250000.0,7,A41.9,Redwood Synthetic Medical Center 058,Tier 1,RI
+C0277852,1250000.0,14,I21.4,Northstar Synthetic Medical Center 207,Tier 1,VA
+C0299803,1250000.0,22,C18.9,Northstar Synthetic Medical Center 097,Tier 2,MA
+C0310651,1250000.0,25,C18.9,Blue Ridge Synthetic Medical Center 568,Tier 2,MD
+C0316991,1250000.0,19,C18.9,Silverline Synthetic Medical Center 532,Tier 1,OR
+C0330974,1250000.0,15,A41.9,Pinecrest Synthetic Medical Center 014,Tier 1,NJ
+C0338552,1250000.0,20,C18.9,Northstar Synthetic Medical Center 227,Tier 1,UT
+C0341886,1250000.0,17,C18.9,Lakeside Synthetic Medical Center 160,Tier 3,NM
+C0352119,1250000.0,20,C18.9,Blue Ridge Synthetic Medical Center 568,Tier 2,MD
+C0363396,1250000.0,17,C18.9,Meadowbrook Synthetic Medical Center 343,Tier 1,TN
+C0364213,1250000.0,19,C18.9,Maple Synthetic Medical Center 518,Tier 1,MA
+C0404227,1250000.0,16,I63.9,Meadowbrook Synthetic Medical Center 157,Tier 1,OH
+C0431072,1250000.0,8,S72.001A,Cedar Valley Synthetic Medical Center 452,Tier 1,HI
+C0441161,1250000.0,8,C18.9,Canyon Synthetic Medical Center 042,Tier 3,UT
+C0445187,1250000.0,26,A41.9,Meadowbrook Synthetic Medical Center 387,Tier 1,MA
+C0450370,1250000.0,23,C18.9,Meadowbrook Synthetic Medical Center 059,Tier 2,WY
+C0461001,1250000.0,34,I63.9,Pinecrest Synthetic Medical Center 446,Tier 1,MA
+C0466475,1250000.0,28,C18.9,Redwood Synthetic Medical Center 148,Tier 3,AZ
+C0467268,1250000.0,21,A41.9,Fairview Synthetic Medical Center 072,Tier 1,IN
+C0476285,1250000.0,15,C18.9,Blue Ridge Synthetic Medical Center 170,Tier 1,RI

@@ -1,0 +1,1 @@
+SELECT strftime('%Y-%m',AdmissionDate) AS claim_month, COUNT(*) AS claims, ROUND(SUM(BilledAmount),2) AS billed_usd, ROUND(AVG(BilledAmount),2) AS avg_bill_usd FROM claims GROUP BY claim_month ORDER BY claim_month;

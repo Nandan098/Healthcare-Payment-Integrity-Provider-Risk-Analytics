@@ -1,0 +1,1 @@
+WITH d AS (SELECT DiagnosisCode,AVG(BilledAmount) AS avg_bill FROM claims GROUP BY DiagnosisCode) SELECT c.ClaimID,c.DiagnosisCode,c.BilledAmount,ROUND(d.avg_bill,2) AS diagnosis_avg,ROUND(c.BilledAmount/d.avg_bill,2) AS ratio FROM claims c JOIN d USING(DiagnosisCode) WHERE c.BilledAmount>2*d.avg_bill ORDER BY ratio DESC LIMIT 250;
