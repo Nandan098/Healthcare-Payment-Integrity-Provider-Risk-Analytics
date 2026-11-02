@@ -53,14 +53,11 @@ The analysis uses structured healthcare claim / provider-service records. The fi
 | Data dimension | Example field types | How the data is used |
 |---|---|---|
 | Claim and record identifiers | Claim ID, line ID, patient/member ID | Record linkage, deduplication, grouping, and traceability; identifiers are not automatically treated as predictive features. |
-| Provider information | Provider ID/NPI, provider type or specialty | Provider-level summaries and peer comparisons. |
 | Patient / beneficiary information | Age band or beneficiary attributes, where available | Utilization and claim-context analysis. |
 | Clinical and service information | Diagnosis code, procedure/HCPCS code, place of service, service date | Procedure-level and service-level comparisons. |
 | Utilization information | Service units, number of services, beneficiary count | Frequency and intensity analysis. |
 | Financial information | Billed/submitted charge, allowed amount, paid amount or Medicare payment | Cost analysis, payment gaps, ratios, and outlier detection. |
 | Time information | Claim/service date, year, month | Trend analysis and time-based aggregation. |
-
-> **Schema note:** The table above describes the types of fields used in this kind of workflow. Exact source-column names vary by extract. Use the names in the repository's data dictionary / loading scripts when reproducing the analysis. IDs and post-outcome fields should be excluded from model inputs where they could cause leakage.
 
 ## Data Preparation
 
